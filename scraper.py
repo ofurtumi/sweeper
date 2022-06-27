@@ -3,7 +3,6 @@ events = {}
 tempTitle = ""
 tempId = ""
 tempStart = ""
-tempStop = ""
 
 with open('export.xml', encoding="UTF-8") as f:
     lines = f.readlines()
@@ -14,11 +13,14 @@ with open('export.xml', encoding="UTF-8") as f:
             tempTitle = line.lstrip()[16:-12]
             tempTitle = tempTitle.replace('"', "'")
         elif ("<wp:post_id>" in line): tempId = line.lstrip()[12:-14]
-        elif ("_EventStartDate" in line): nextline = True
 
         if (nextline):
             nextline = False
-            tempStart = line.lstrip()[24,-20]
+            tempStart = line.lstrip()[24:-20]
+            events[tempId] = [tempTitle, tempStart]
+
+        if ("_EventStartDateUTC" in line): nextline = True
+
 
         # if ("<content:encoded>" in line): 
         #     if ("<![CDATA[[" in line): nextline = True
@@ -26,13 +28,13 @@ with open('export.xml', encoding="UTF-8") as f:
 
 print(len(events))
 print(list(events)[0])
-print(events["2602"])
+# print(events)
 
-with open('testdata.json', "w", encoding="UTF-8") as f:
+with open('testdata2.json', "w", encoding="UTF-8") as f:
     f.write("")
 
-with open('testdata.json', "a", encoding="UTF-8") as f:
-    f.write("[")
-    for eventId, eventName in events.items():
-            f.write(f'{"{"}"{eventId}":"{eventName}"{"}"}{"," if eventId != list(events)[-1] else ""}\n')
+with open('testdata2.json', "a", encoding="UTF-8") as f:
+    f.write("[\n")
+    for eventId, other in events.items():
+            f.write(f'{"{"}"id":"{eventId}","title":"{other[0]}", "start":"{other[1]}"{"}"}{"," if eventId != list(events)[-1] else ""}\n')
     f.write("]")

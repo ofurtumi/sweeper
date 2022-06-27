@@ -1,0 +1,20 @@
+ul {
+    margin: 0 auto;
+    padding-inline-start: 0;
+    padding: 1em;
+    width: fit-content;
+    border: 1px solid black;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5em;
+}
+
+p {
+    margin: 0;
+}
+
+li {
+    padding: 0.25em;
+    border: 5px solid black;
+}

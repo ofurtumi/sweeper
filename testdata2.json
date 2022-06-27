@@ -1,0 +1,3027 @@
+[
+    {
+        "id": "7349",
+        "title": "Söngtónleikar 'Augun mín og augun þín'",
+        "start": "2017-05-13 14:00:00"
+    },
+    {
+        "id": "7619",
+        "title": "Rauða skáldahúsið",
+        "start": "2017-05-12 08:00:00"
+    },
+    {
+        "id": "8297",
+        "title": "Tónleikar - Dzintra Erliha og Krisjanis Norvelis",
+        "start": "2018-03-17 15:00:00"
+    },
+    {
+        "id": "8395",
+        "title": "Kvöldvaka með systkinunum úr Tungu endurtekin",
+        "start": "2018-04-12 20:00:00"
+    },
+    {
+        "id": "8681",
+        "title": "Þjóðlagasveitin Þula á leið til Kína",
+        "start": "2018-05-28 08:00:00"
+    },
+    {
+        "id": "11682",
+        "title": "LAUGARDAGSKLASSÍK Í HANNESARHOLTI",
+        "start": "2021-02-23 14:00:00"
+    },
+    {
+        "id": "5605",
+        "title": "Hvítasunnuhelgi - lokað í Hannesarholti / Closed for Whitsun",
+        "start": "2018-05-19 11:00:00"
+    },
+    {
+        "id": "6296",
+        "title": "Óperukynning",
+        "start": "2016-01-30 17:30:00"
+    },
+    {
+        "id": "6298",
+        "title": "Davíðsljóð í Hannesarholti",
+        "start": "2016-01-21 20:00:00"
+    },
+    {
+        "id": "6350",
+        "title": "Undir súðinni - opnun",
+        "start": "2016-02-06 15:00:00"
+    },
+    {
+        "id": "6384",
+        "title": "Bókmenntaspjall - Blundar í þér bók?",
+        "start": "2016-02-17 20:00:00"
+    },
+    {
+        "id": "6386",
+        "title": "Syngjum saman - Sigríður Thorlacius og Hjörtur Ingvi Jóhannson",
+        "start": "2016-02-14 15:00:00"
+    },
+    {
+        "id": "6388",
+        "title": "Félag íslenskra fræða - Endurfædd orð og önnur dauð",
+        "start": "2016-02-24 20:00:00"
+    },
+    {
+        "id": "6389",
+        "title": "Davíðsljóð - Ítalíuför Davíðs",
+        "start": "2016-02-28 16:00:00"
+    },
+    {
+        "id": "6390",
+        "title": "UPPSELT Kvöldstund með Böðvari Guðmundssyni og Silju Aðalsteinsdóttur",
+        "start": "2016-02-29 20:00:00"
+    },
+    {
+        "id": "6391",
+        "title": "Hönnunarmars í Hannesarholti",
+        "start": "2016-03-10 17:00:00"
+    },
+    {
+        "id": "6397",
+        "title": "Már Gunnarsson  styrktartónleikar",
+        "start": "2016-03-09 20:00:00"
+    },
+    {
+        "id": "6398",
+        "title": "Syngjum saman",
+        "start": "2016-03-13 15:00:00"
+    },
+    {
+        "id": "6400",
+        "title": "Jazzveisla Kristjönu Stefáns",
+        "start": "2016-03-18 18:00:00"
+    },
+    {
+        "id": "6401",
+        "title": "Félag íslenskra fræða",
+        "start": "2016-04-06 20:00:00"
+    },
+    {
+        "id": "6402",
+        "title": "Davíðsljóð - Rödd konunnar",
+        "start": "2016-04-10 16:00:00"
+    },
+    {
+        "id": "6404",
+        "title": "'Á vængjum söngsins' Diddú og Anna Guðný",
+        "start": "2016-04-16 16:00:00"
+    },
+    {
+        "id": "6406",
+        "title": "Kvöldstund með Halldóri Haralds og Jónasi Sen",
+        "start": "2016-04-19 20:00:00"
+    },
+    {
+        "id": "6424",
+        "title": "Heimspekispjall",
+        "start": "2016-03-16 20:00:00"
+    },
+    {
+        "id": "6426",
+        "title": "Kvöldstund með Gísla Víkingssyni",
+        "start": "2016-04-04 20:00:00"
+    },
+    {
+        "id": "6427",
+        "title": "Kvöldstund með Helgu Þórarins",
+        "start": "2016-04-13 20:00:00"
+    },
+    {
+        "id": "6429",
+        "title": "Heimspekispjall",
+        "start": "2016-04-26 20:00:00"
+    },
+    {
+        "id": "6433",
+        "title": "Bókakaffi - Halldóra Thoroddsen",
+        "start": "2016-02-21 16:00:00"
+    },
+    {
+        "id": "6447",
+        "title": "Innlit - Hildur Björnsdóttir",
+        "start": "2016-02-20 15:00:00"
+    },
+    {
+        "id": "6450",
+        "title": "Bókmenntaspjall - Páll Baldvin Baldvinsson",
+        "start": "2016-03-07 20:00:00"
+    },
+    {
+        "id": "6462",
+        "title": "Kvöldstund með Jörmundi Inga Hansen",
+        "start": "2016-05-03 20:00:00"
+    },
+    {
+        "id": "6471",
+        "title": "Heilsuspjall - sársauki",
+        "start": "2016-03-14 20:00:00"
+    },
+    {
+        "id": "6473",
+        "title": "Syngjum saman",
+        "start": "2016-04-03 15:00:00"
+    },
+    {
+        "id": "6474",
+        "title": "Í návígi - Domenico Codispoti",
+        "start": "2016-03-06 16:00:00"
+    },
+    {
+        "id": "6494",
+        "title": "FLASHBACK - útgáfutónleikar Duo Ultima",
+        "start": "2016-03-04 20:00:00"
+    },
+    {
+        "id": "6503",
+        "title": "Heilsuspjall - Hystería, er hún til?",
+        "start": "2016-04-12 20:00:00"
+    },
+    {
+        "id": "6521",
+        "title": "Kvöldstund með Böðvari Guðmundssyni og Silju Aðalsteinsdóttir - endurtekin",
+        "start": "2016-03-01 20:00:00"
+    },
+    {
+        "id": "6545",
+        "title": "Bókakaffi - að yrkja hamingjuna",
+        "start": "2016-03-20 16:00:00"
+    },
+    {
+        "id": "6604",
+        "title": "Tónleikar - Sumarnætur",
+        "start": "2016-05-30 20:00:00"
+    },
+    {
+        "id": "6607",
+        "title": "Barnamenningarhátíð - sungið saman",
+        "start": "2016-04-21 15:00:00"
+    },
+    {
+        "id": "6609",
+        "title": "Barnamenningarhátíð - sungið saman",
+        "start": "2016-04-24 15:00:00"
+    },
+    {
+        "id": "6610",
+        "title": "Barnamenningarhátíð - sögustund",
+        "start": "2016-04-21 16:00:00"
+    },
+    {
+        "id": "6612",
+        "title": "Barnamenningar-hátíð - sögustund",
+        "start": "2016-04-23 14:00:00"
+    },
+    {
+        "id": "6619",
+        "title": "Kvöldstund með Árna Björnssyni",
+        "start": "2016-05-11 20:00:00"
+    },
+    {
+        "id": "6621",
+        "title": "Bókakaffi - Ingibjörg Hjartardóttir",
+        "start": "2016-04-17 16:00:00"
+    },
+    {
+        "id": "6624",
+        "title": "Syngjum saman",
+        "start": "2016-05-01 15:00:00"
+    },
+    {
+        "id": "6629",
+        "title": "Bókakaffi - Guðmundur Andri Thorsson",
+        "start": "2016-05-08 16:00:00"
+    },
+    {
+        "id": "6630",
+        "title": "Barnamenningarhátíð - sögustund",
+        "start": "2016-04-24 16:00:00"
+    },
+    {
+        "id": "6673",
+        "title": "Jazztónleikar - Ife, Óskar og Eyþór",
+        "start": "2016-04-30 21:00:00"
+    },
+    {
+        "id": "6705",
+        "title": "Systkinatónleikar - uppselt - aukatóleikar á sunnudag",
+        "start": "2016-07-09 16:00:00"
+    },
+    {
+        "id": "6711",
+        "title": "Söngstund að sumarlagi",
+        "start": "2016-06-16 20:00:00"
+    },
+    {
+        "id": "6714",
+        "title": "Tónleikar - Agnar Már Magnússon",
+        "start": "2016-05-31 20:00:00"
+    },
+    {
+        "id": "6717",
+        "title": "Útgáfufögnuður - Ljóðasafn Hjartar Pálssonar",
+        "start": "2016-06-05 16:00:00"
+    },
+    {
+        "id": "6726",
+        "title": "Ljósmyndasýning - Vatnið í náttúrunni",
+        "start": "2016-06-04 15:00:00"
+    },
+    {
+        "id": "6742",
+        "title": "Arngunnur Ýr - opnun og listaspjall",
+        "start": "2016-06-26 18:00:00"
+    },
+    {
+        "id": "6775",
+        "title": "triu - tónleikar",
+        "start": "2016-07-08 20:00:00"
+    },
+    {
+        "id": "6780",
+        "title": "Systkinatónleikar endurteknir frá laugardegi",
+        "start": "2016-07-10 16:00:00"
+    },
+    {
+        "id": "6781",
+        "title": "Sumarlokun til 2.ágúst/Summer vacation until August 2nd",
+        "start": "2016-07-16 08:00:00"
+    },
+    {
+        "id": "6783",
+        "title": "Tónleikar - fjórhent píanótónlist",
+        "start": "2016-09-10 16:00:00"
+    },
+    {
+        "id": "6786",
+        "title": "Tónleikar - Frönsk og íslensk rómantík",
+        "start": "2016-08-05 20:00:00"
+    },
+    {
+        "id": "6795",
+        "title": "Augnablikið - Ljósmyndasýning Þórunnar Elísabetar",
+        "start": "2016-08-20 16:00:00"
+    },
+    {
+        "id": "6799",
+        "title": "Söngleikjakvöld í Hannesarholti",
+        "start": "2016-08-11 20:00:00"
+    },
+    {
+        "id": "6805",
+        "title": "Sónötur fyrir selló og píanó",
+        "start": "2016-08-03 17:30:00"
+    },
+    {
+        "id": "6813",
+        "title": "Síðsumardjass í Hannesarholti",
+        "start": "2016-08-25 20:00:00"
+    },
+    {
+        "id": "6844",
+        "title": "Dúettinn 23/8 - Afmælistónleikar",
+        "start": "2016-08-23 20:00:00"
+    },
+    {
+        "id": "6850",
+        "title": "Jamie Laval - Keltneskt kvöld",
+        "start": "2016-09-29 20:00:00"
+    },
+    {
+        "id": "6861",
+        "title": "Syngjum saman",
+        "start": "2016-09-18 15:00:00"
+    },
+    {
+        "id": "6865",
+        "title": "Syngjum saman",
+        "start": "2016-10-16 15:00:00"
+    },
+    {
+        "id": "6890",
+        "title": "Undrabörn og tónskáld - Mozart og Liszt",
+        "start": "2016-09-17 13:30:00"
+    },
+    {
+        "id": "6898",
+        "title": "Eftirlætis ljóðasöngvar",
+        "start": "2016-11-19 13:30:00"
+    },
+    {
+        "id": "6903",
+        "title": "Svipmyndir - tónleikar",
+        "start": "2016-09-21 20:00:00"
+    },
+    {
+        "id": "6911",
+        "title": "Vil eg, að kvæðið heiti LILJA",
+        "start": "2016-09-28 20:00:00"
+    },
+    {
+        "id": "6919",
+        "title": "Kvöldstund með Gunnari Kvaran",
+        "start": "2016-09-20 20:00:00"
+    },
+    {
+        "id": "6923",
+        "title": "Kvöldstund með Lenku og Peter Máté",
+        "start": "2016-11-14 20:00:00"
+    },
+    {
+        "id": "6926",
+        "title": "Syngjum saman",
+        "start": "2016-11-13 15:00:00"
+    },
+    {
+        "id": "6927",
+        "title": "Jassveisla - Kristjana syngur Ellu",
+        "start": "2016-11-17 19:00:00"
+    },
+    {
+        "id": "6933",
+        "title": "Anna & Sölvi - tónleikar",
+        "start": "2016-09-15 20:00:00"
+    },
+    {
+        "id": "6938",
+        "title": "Davíðsljóð - 'á vondra manna jörð'",
+        "start": "2016-09-25 16:00:00"
+    },
+    {
+        "id": "6941",
+        "title": "Bókmenntaspjall: Þórunn Jarla Valdimarsdóttir og Soffía Auður Birgisdóttir",
+        "start": "2016-10-16 13:00:00"
+    },
+    {
+        "id": "6949",
+        "title": "Þórunn hyrna og Auður djúpúðga - einleikur og spjall",
+        "start": "2016-10-04 20:00:00"
+    },
+    {
+        "id": "6950",
+        "title": "Heilsuspjall: Tölvur og kynlíf",
+        "start": "2016-10-11 20:00:00"
+    },
+    {
+        "id": "6977",
+        "title": "Bókmenntaspjall - Gunnar Theodór Eggertsson",
+        "start": "2016-11-01 20:00:00"
+    },
+    {
+        "id": "6979",
+        "title": "Ljóðainnsetning - Mitt annað sjálf / the second self",
+        "start": "2016-10-16 16:00:00"
+    },
+    {
+        "id": "6993",
+        "title": "Davíðsljóð  -  Móðirin í verkum Davíðs",
+        "start": "2016-10-23 16:00:00"
+    },
+    {
+        "id": "6994",
+        "title": "Kvöldstund með Sigríði Thorlacius",
+        "start": "2016-10-18 20:00:00"
+    },
+    {
+        "id": "6995",
+        "title": "Heimspekispjall og samtímalist",
+        "start": "2016-10-19 20:00:00"
+    },
+    {
+        "id": "6997",
+        "title": "Dagstund með Páli Bergþórssyni",
+        "start": "2016-10-30 13:00:00"
+    },
+    {
+        "id": "7003",
+        "title": "Shostakovich - Beethoven nútímans",
+        "start": "2016-11-05 14:00:00"
+    },
+    {
+        "id": "7013",
+        "title": "Sónötur Brahms fyrir píanó og fiðlu",
+        "start": "2016-10-08 20:00:00"
+    },
+    {
+        "id": "7084",
+        "title": "Airwaves - Off-Venue dagskrá",
+        "start": "2016-11-04 12:00:00"
+    },
+    {
+        "id": "7089",
+        "title": "Airwaves - Off Venue dagskrá",
+        "start": "2016-11-05 16:30:00"
+    },
+    {
+        "id": "7094",
+        "title": "Leikið og lofað í garðinum heima - Kristín Þorkelsdóttir myndlistarkona",
+        "start": "2016-11-12 15:00:00"
+    },
+    {
+        "id": "7097",
+        "title": "Gljúfrasteinn: Þrautsegja, þunglyndi og bækur",
+        "start": "2016-11-03 20:00:00"
+    },
+    {
+        "id": "7102",
+        "title": "Heilsuspjall - 1500 dagar á blæðingum",
+        "start": "2016-11-15 20:00:00"
+    },
+    {
+        "id": "7103",
+        "title": "Sagnakvöld",
+        "start": "2016-11-05 08:00:00"
+    },
+    {
+        "id": "7104",
+        "title": "Upplestrarkvöld í fjórskiptum takti",
+        "start": "2016-11-10 20:00:00"
+    },
+    {
+        "id": "7117",
+        "title": "Hádegistónleikar í Hannesarholti",
+        "start": "2016-12-18 13:10:00"
+    },
+    {
+        "id": "7144",
+        "title": "Farfuglatónleikar - Rannveig Marta Sarc",
+        "start": "2016-12-28 17:00:00"
+    },
+    {
+        "id": "7149",
+        "title": "Jólaveisla með Harold Burr",
+        "start": "2016-12-01 19:00:00"
+    },
+    {
+        "id": "7150",
+        "title": "Ein nótt í desember",
+        "start": "2016-12-11 20:00:00"
+    },
+    {
+        "id": "7157",
+        "title": "Farfuglatónleikar - Magnús Hallur Jónsson",
+        "start": "2016-12-28 20:00:00"
+    },
+    {
+        "id": "7159",
+        "title": "Farfuglatónleikar - Björg Brjánsdóttir og Bryndís Þórsdóttir",
+        "start": "2016-12-29 17:00:00"
+    },
+    {
+        "id": "7161",
+        "title": "Farfuglatónleikar - Rakel Björt Helgadóttir",
+        "start": "2016-12-29 20:00:00"
+    },
+    {
+        "id": "7167",
+        "title": "Farfuglatónleikar - Sólveig Steinþórsdóttir",
+        "start": "2016-12-30 17:00:00"
+    },
+    {
+        "id": "7169",
+        "title": "Kvöldstund með Sigríði Snævarr",
+        "start": "2016-12-07 20:00:00"
+    },
+    {
+        "id": "7178",
+        "title": "Leikur að garni - List án landamæra",
+        "start": "2016-11-26 11:00:00"
+    },
+    {
+        "id": "7189",
+        "title": "Upplestur rithöfunda",
+        "start": "2016-12-11 13:00:00"
+    },
+    {
+        "id": "7194",
+        "title": "Listakonan kynnir verk sín",
+        "start": "2016-11-30 16:00:00"
+    },
+    {
+        "id": "7199",
+        "title": "Jólahugvekja Þráins - Sungið saman",
+        "start": "2016-12-11 15:00:00"
+    },
+    {
+        "id": "7211",
+        "title": "Olivier Manoury - Litir vatns og jarðar- myndlistarsýning",
+        "start": "2017-01-03 00:00:00"
+    },
+    {
+        "id": "7217",
+        "title": "Olivier Manoury - Einleikur á bandóneon",
+        "start": "2016-12-16 20:00:00"
+    },
+    {
+        "id": "7239",
+        "title": "Bóndadagsveisla með Siggu Eyrúnu og Kalla Olgeirs",
+        "start": "2017-01-20 19:00:00"
+    },
+    {
+        "id": "7242",
+        "title": "Upplestrarkvöld",
+        "start": "2016-12-13 20:00:00"
+    },
+    {
+        "id": "7245",
+        "title": "Syngjum saman",
+        "start": "2016-12-18 15:00:00"
+    },
+    {
+        "id": "7249",
+        "title": "Sýningarlok með jassaðri sveiflu",
+        "start": "2016-12-14 08:00:00"
+    },
+    {
+        "id": "7253",
+        "title": "Birgitta Haukdal les og syngur",
+        "start": "2016-12-18 14:00:00"
+    },
+    {
+        "id": "7282",
+        "title": "Vetrarljóð - Píanó og fiðla",
+        "start": "2017-01-03 17:00:00"
+    },
+    {
+        "id": "7286",
+        "title": "Tónleikar - Gestur frá gamla landinu",
+        "start": "2017-02-11 14:00:00"
+    },
+    {
+        "id": "7315",
+        "title": "Davíðsljóð í Hannesarholti   ",
+        "start": "2017-01-15 16:00:00"
+    },
+    {
+        "id": "7321",
+        "title": "Bókmenntaspjall - Elsku Drauma mín og Ósjálfrátt",
+        "start": "2017-01-12 20:00:00"
+    },
+    {
+        "id": "7324",
+        "title": "Sagnakvöld með Einari Kárasyni",
+        "start": "2017-01-26 20:00:00"
+    },
+    {
+        "id": "7331",
+        "title": "Olivier Manoury - bandóneon og vatnslitamyndir",
+        "start": "2017-01-07 15:00:00"
+    },
+    {
+        "id": "7335",
+        "title": "Syngjum saman",
+        "start": "2017-02-26 15:00:00"
+    },
+    {
+        "id": "7338",
+        "title": "Dúó tónleikar fyrir selló og píanó",
+        "start": "2017-02-12 16:00:00"
+    },
+    {
+        "id": "7339",
+        "title": "Japanskur andblær - vatnslitamyndir",
+        "start": "2017-01-21 16:05:00"
+    },
+    {
+        "id": "7342",
+        "title": "Syngjum saman",
+        "start": "2017-01-22 15:00:00"
+    },
+    {
+        "id": "7351",
+        "title": "Tónleikar - Fimm árstíðir",
+        "start": "2017-03-11 16:00:00"
+    },
+    {
+        "id": "7354",
+        "title": "Kvöldstund með Herdísi Egilsdóttur",
+        "start": "2017-01-30 20:00:00"
+    },
+    {
+        "id": "7356",
+        "title": "Kvöldstund með Þórunni Björnsdóttur",
+        "start": "2017-03-01 20:00:00"
+    },
+    {
+        "id": "7358",
+        "title": "Tunglið í nóttinni  - Kristjana Stefánsdóttir og Kvartett Sigurðar Flosasonar",
+        "start": "2017-01-21 16:00:00"
+    },
+    {
+        "id": "7378",
+        "title": "Bókaspjall með Gunnari Hersveini og Friðbjörgu Ingimarsdóttur",
+        "start": "2017-03-08 20:00:00"
+    },
+    {
+        "id": "7385",
+        "title": "Bókakaffi með Ásdísi Thoroddssen",
+        "start": "2017-02-26 16:00:00"
+    },
+    {
+        "id": "7386",
+        "title": "Syngjum saman",
+        "start": "2017-03-12 15:00:00"
+    },
+    {
+        "id": "7391",
+        "title": "Bókakaffi með Sigríði Hagalín Björnsdóttur",
+        "start": "2017-03-05 16:00:00"
+    },
+    {
+        "id": "7393",
+        "title": "Tónleikar - Kvartett Einars Scheving",
+        "start": "2017-05-11 20:00:00"
+    },
+    {
+        "id": "7401",
+        "title": "Fjölskyldutónar",
+        "start": "2017-03-26 16:00:00"
+    },
+    {
+        "id": "7405",
+        "title": "Bókakaffi með Svandísi Guðrúnu Ívarsdóttur",
+        "start": "2017-05-07 16:00:00"
+    },
+    {
+        "id": "7413",
+        "title": "UPPSELT - Kvöldstund með Helenu Eyjólfs",
+        "start": "2017-02-23 20:00:00"
+    },
+    {
+        "id": "7414",
+        "title": "Kvöld í París - tónleikar",
+        "start": "2017-02-22 20:00:00"
+    },
+    {
+        "id": "7417",
+        "title": "'Soul'd out' - Harold Burr",
+        "start": "2017-02-24 20:00:00"
+    },
+    {
+        "id": "7439",
+        "title": "Töfrar náttúrunnar - vatnslitamyndir",
+        "start": "2017-02-25 15:00:00"
+    },
+    {
+        "id": "7453",
+        "title": "Gítarfantasíur einleikstónleikar",
+        "start": "2017-04-01 20:00:00"
+    },
+    {
+        "id": "7460",
+        "title": "Heimspekispjall: Fjölmiðlar og loftslagsmál",
+        "start": "2017-03-28 20:00:00"
+    },
+    {
+        "id": "7464",
+        "title": "Heilsuspjall - Valdafíkn",
+        "start": "2017-03-13 20:00:00"
+    },
+    {
+        "id": "7468",
+        "title": "Endurtekið - Kvöldstund með Helenu Eyjólfs",
+        "start": "2017-02-26 17:00:00"
+    },
+    {
+        "id": "7478",
+        "title": "Heilsuspjall - Heilahreysti",
+        "start": "2017-03-16 20:00:00"
+    },
+    {
+        "id": "7496",
+        "title": "Lýra norðursins og saga Auðar djúpúðgu",
+        "start": "2017-06-02 20:00:00"
+    },
+    {
+        "id": "7499",
+        "title": "Stína Ágústs og orgeltríó Leo Lindberg",
+        "start": "2017-04-08 20:00:00"
+    },
+    {
+        "id": "7502",
+        "title": "Leiklistarspjall - Sveinn Einarsson",
+        "start": "2017-04-03 20:00:00"
+    },
+    {
+        "id": "7503",
+        "title": "Ljóða-og tokkötukvöld Steinunnar og Þorsteins",
+        "start": "2017-04-05 20:00:00"
+    },
+    {
+        "id": "7504",
+        "title": "'Inspired' -  Harold Burr - Gospel",
+        "start": "2017-04-19 20:00:00"
+    },
+    {
+        "id": "7506",
+        "title": "Syngjum saman",
+        "start": "2017-04-23 16:00:00"
+    },
+    {
+        "id": "7523",
+        "title": "Bókmenntir til bjargar",
+        "start": "2017-05-16 20:00:00"
+    },
+    {
+        "id": "7536",
+        "title": "Vetrarferðin - Die Winterreise",
+        "start": "2017-03-25 16:00:00"
+    },
+    {
+        "id": "7551",
+        "title": "Hönnunarmars í Hannesarholti - Opnun",
+        "start": "2017-03-23 18:00:00"
+    },
+    {
+        "id": "7574",
+        "title": "Hera og Ísól - Tónleikar framhaldsstigsnema Domus Vox",
+        "start": "2017-03-23 20:00:00"
+    },
+    {
+        "id": "7577",
+        "title": "Ásrún Nanna Helena - Tónleikar framhaldsstigsnema Domus Vox",
+        "start": "2017-03-24 19:30:00"
+    },
+    {
+        "id": "7581",
+        "title": "Páskaleyfi í Hannesarholti",
+        "start": "2017-04-12 08:00:00"
+    },
+    {
+        "id": "7584",
+        "title": "Málverk / 12 rendur - opnun - Hlynur Helgason",
+        "start": "2017-04-01 15:00:00"
+    },
+    {
+        "id": "7597",
+        "title": "Pálsvaka - heimspekispjall um menntun og menntastefnu",
+        "start": "2017-04-25 20:00:00"
+    },
+    {
+        "id": "7624",
+        "title": "Rappað, skratsað og skapað - Barnamenningarhátíð",
+        "start": "2017-04-29 14:00:00"
+    },
+    {
+        "id": "7626",
+        "title": "HÁFLEYGA-HRAÐSKREIÐA og frúin í Hamborg - Spunaferðalag á Barnamenningarhátíð",
+        "start": "2017-04-30 14:00:00"
+    },
+    {
+        "id": "7643",
+        "title": "Syngjum saman",
+        "start": "2017-04-19 08:00:00"
+    },
+    {
+        "id": "7646",
+        "title": "Spaðatónleikar",
+        "start": "2017-05-14 16:00:00"
+    },
+    {
+        "id": "7656",
+        "title": "Syngjum saman",
+        "start": "2017-05-21 15:00:00"
+    },
+    {
+        "id": "7667",
+        "title": "Listamaðurinn tekur á móti gestum á laugardag",
+        "start": "2017-05-06 14:00:00"
+    },
+    {
+        "id": "7677",
+        "title": "Litur: GRÆNN",
+        "start": "2017-05-13 15:00:00"
+    },
+    {
+        "id": "7683",
+        "title": "Héðan og þaðan - píanó og fiðla",
+        "start": "2017-06-03 17:00:00"
+    },
+    {
+        "id": "7684",
+        "title": "'Soul'd Out'  is back  - Harold Burr",
+        "start": "2017-06-01 20:00:00"
+    },
+    {
+        "id": "7690",
+        "title": "Blyde Lasses frá Hjaltlandseyjum",
+        "start": "2017-06-04 20:00:00"
+    },
+    {
+        "id": "7708",
+        "title": "Matur og lifandi tónlist",
+        "start": "2017-06-15 17:00:00"
+    },
+    {
+        "id": "7711",
+        "title": "Matur og lifandi tónlist",
+        "start": "2017-06-22 17:00:00"
+    },
+    {
+        "id": "7712",
+        "title": "Matur og lifandi tónlist",
+        "start": "2017-07-13 17:00:00"
+    },
+    {
+        "id": "7714",
+        "title": "Matur og lifandi tónlist",
+        "start": "2017-06-29 17:00:00"
+    },
+    {
+        "id": "7716",
+        "title": "Matur og lifandi tónlist",
+        "start": "2017-07-20 17:00:00"
+    },
+    {
+        "id": "7717",
+        "title": "Matur og lifandi tónlist",
+        "start": "2017-07-06 17:00:00"
+    },
+    {
+        "id": "7718",
+        "title": "Matur og lifandi tónlist",
+        "start": "2017-07-27 17:00:00"
+    },
+    {
+        "id": "7720",
+        "title": "Harmoníkutónleikar",
+        "start": "2017-08-17 19:00:00"
+    },
+    {
+        "id": "7724",
+        "title": "Marbel á ferð og flugi",
+        "start": "2017-07-13 20:00:00"
+    },
+    {
+        "id": "7732",
+        "title": "Ljósmyndasýning - Gyðjan innra með þér",
+        "start": "2017-07-07 17:00:00"
+    },
+    {
+        "id": "7742",
+        "title": "Anna og Sölvi fara hringinn",
+        "start": "2017-08-26 17:00:00"
+    },
+    {
+        "id": "7745",
+        "title": "CENTURION MONK - Theolonius Monk heiðurstónleikar",
+        "start": "2017-08-20 20:00:00"
+    },
+    {
+        "id": "7749",
+        "title": "Allskonar ást!",
+        "start": "2017-08-12 20:00:00"
+    },
+    {
+        "id": "7754",
+        "title": "Linda Steinþórsdóttir sýnir í Hannesarholti",
+        "start": "2017-08-01 17:00:00"
+    },
+    {
+        "id": "7771",
+        "title": "Tónleikar - Olivier Manoury og Tómas R.Einarsson",
+        "start": "2017-08-25 20:00:00"
+    },
+    {
+        "id": "7787",
+        "title": "Menningarnótt í Hannesarholti",
+        "start": "2017-08-19 11:00:00"
+    },
+    {
+        "id": "7807",
+        "title": "Jónasarspjall á Degi íslenskrar tungu",
+        "start": "2017-11-16 20:00:00"
+    },
+    {
+        "id": "7808",
+        "title": "Syngjum saman",
+        "start": "2017-09-24 14:00:00"
+    },
+    {
+        "id": "7809",
+        "title": "Syngjum saman: Þráinn Árni Baldvinsson",
+        "start": "2017-12-03 14:00:00"
+    },
+    {
+        "id": "7811",
+        "title": "Minningardagskrá um Ingibjörgu Haralds",
+        "start": "2017-10-21 15:00:00"
+    },
+    {
+        "id": "7813",
+        "title": "Kvöldvaka - Tungu mál",
+        "start": "2017-11-29 20:00:00"
+    },
+    {
+        "id": "7817",
+        "title": "Syngjum saman til heiðurs KSU Úlfljótsvatni",
+        "start": "2017-11-19 14:00:00"
+    },
+    {
+        "id": "7819",
+        "title": "Syngjum saman",
+        "start": "2017-10-22 14:00:00"
+    },
+    {
+        "id": "7822",
+        "title": "Fjarskinn er blár - sýning Þóru Jónsdóttur ljóðskálds og listmálara",
+        "start": "2017-09-16 15:00:00"
+    },
+    {
+        "id": "7832",
+        "title": "Syngjum saman",
+        "start": "2017-11-05 14:00:00"
+    },
+    {
+        "id": "7836",
+        "title": "Kvöldstund með Pálma Gunnarssyni",
+        "start": "2017-11-23 20:00:00"
+    },
+    {
+        "id": "7846",
+        "title": "'Við djúpið blátt' - með Ólínu Þorvarðardóttur",
+        "start": "2017-10-10 20:00:00"
+    },
+    {
+        "id": "7851",
+        "title": "Dagstund með Rúnu",
+        "start": "2017-09-23 15:00:00"
+    },
+    {
+        "id": "7861",
+        "title": "Syngjum saman",
+        "start": "2017-10-08 14:00:00"
+    },
+    {
+        "id": "7863",
+        "title": "Tónleikar - Hrafnar",
+        "start": "2017-10-07 20:00:00"
+    },
+    {
+        "id": "7872",
+        "title": "Tónleikar - Hrafnar",
+        "start": "2017-10-28 20:00:00"
+    },
+    {
+        "id": "7878",
+        "title": "FRESTAÐ VEGNA VERKFALLS - Einleikstónleikar á selló - Anthony Albrecht",
+        "start": "2017-12-19 20:00:00"
+    },
+    {
+        "id": "7883",
+        "title": "Vangaveltur - Málverkasýning Erlu Axels",
+        "start": "2017-10-14 14:00:00"
+    },
+    {
+        "id": "7886",
+        "title": "Halldór Haralds útgáfukaffi - Þá er ástæða til að hlæja",
+        "start": "2017-10-07 15:00:00"
+    },
+    {
+        "id": "7890",
+        "title": "Bókahillan á baðstofuloftinu - sögustund",
+        "start": "2017-09-30 11:00:00"
+    },
+    {
+        "id": "7893",
+        "title": "Tónleikar - Haustrómantík með Siggu Eyrúnu og Karli Olgeirs",
+        "start": "2017-11-09 20:30:00"
+    },
+    {
+        "id": "7933",
+        "title": "Síðasti sýningardagur - Þóra Jónsdóttir",
+        "start": "2017-10-09 15:00:00"
+    },
+    {
+        "id": "7935",
+        "title": "Heimspekispjall: 'Landamæri málfrelsisins: Popúlismi og pólarísering'",
+        "start": "2017-10-24 20:00:00"
+    },
+    {
+        "id": "7940",
+        "title": "Chet Baker and me - Kvartett Halla Guðmunds",
+        "start": "2017-10-27 20:00:00"
+    },
+    {
+        "id": "7941",
+        "title": "Bókakaffi - Steinunn G.Helgadóttir",
+        "start": "2017-10-29 16:00:00"
+    },
+    {
+        "id": "7955",
+        "title": "Bókakaffi-Soffía Auður Birgisdóttir:  Orlando eftir Virginiu Woolf",
+        "start": "2017-11-12 16:00:00"
+    },
+    {
+        "id": "7966",
+        "title": "Heilsuspjall - Sambýli lífvera á jörðinni",
+        "start": "2017-10-18 08:00:00"
+    },
+    {
+        "id": "7970",
+        "title": "Hafdís Huld - Dare to Dream Small",
+        "start": "2017-11-18 20:00:00"
+    },
+    {
+        "id": "7985",
+        "title": "Bókaspjall - Undur Mývatns",
+        "start": "2017-10-30 20:00:00"
+    },
+    {
+        "id": "7987",
+        "title": "Tónleikar - Peter Máté og Eugen Prochác",
+        "start": "2017-11-22 20:00:00"
+    },
+    {
+        "id": "8000",
+        "title": "Bókahillan á baðstofuloftinu - Sigrún Eldjárn",
+        "start": "2017-10-28 11:00:00"
+    },
+    {
+        "id": "8008",
+        "title": "Mozartmaraþon",
+        "start": "2018-01-28 12:15:00"
+    },
+    {
+        "id": "8018",
+        "title": "Bókakaffi til heiðurs Kristjáni Árnasyni",
+        "start": "2017-11-05 16:00:00"
+    },
+    {
+        "id": "8020",
+        "title": "Kvöldstund með Pálma Gunnarssyni endurtekin",
+        "start": "2017-11-25 20:00:00"
+    },
+    {
+        "id": "8027",
+        "title": "Heimspekispjall: Um lífsiðfræði CRISPR-erfðatækninnar",
+        "start": "2017-11-21 20:00:00"
+    },
+    {
+        "id": "8031",
+        "title": "Kvöldstund með Hjálmari Jónssyni",
+        "start": "2017-12-14 20:00:00"
+    },
+    {
+        "id": "8036",
+        "title": "Tónleikar - Anna Sigga og Gerrit Schuil: Maístjarnan og önnur ljóð",
+        "start": "2017-11-12 17:00:00"
+    },
+    {
+        "id": "8051",
+        "title": "Sextán söngvar fyrir sópran og tenór",
+        "start": "2017-11-25 15:00:00"
+    },
+    {
+        "id": "8054",
+        "title": "Serbneskir menningardagar í Reykjavík",
+        "start": "2017-11-17 18:00:00"
+    },
+    {
+        "id": "8060",
+        "title": "Fiskur af himni - Hallgrímur Helgason - upplestur",
+        "start": "2017-11-23 18:30:00"
+    },
+    {
+        "id": "8075",
+        "title": "Upplestur: Íslenska lopapeysan - Ásdís Jóelsdóttir",
+        "start": "2017-12-07 17:30:00"
+    },
+    {
+        "id": "8103",
+        "title": "Kvöldvaka á afmælisdegi Hannesar Hafstein",
+        "start": "2017-12-04 20:00:00"
+    },
+    {
+        "id": "8108",
+        "title": "Bókakynning",
+        "start": "2017-12-03 16:00:00"
+    },
+    {
+        "id": "8127",
+        "title": "Tónaljóð -",
+        "start": "2018-01-07 14:00:00"
+    },
+    {
+        "id": "8130",
+        "title": "Ljóðamaraþon í Hannesarholti",
+        "start": "2017-12-16 14:00:00"
+    },
+    {
+        "id": "8133",
+        "title": "Tónleikar farfugla",
+        "start": "2017-12-30 12:00:00"
+    },
+    {
+        "id": "8136",
+        "title": "Bókakynning Söngurinn og sveitin og Tíminn snýr aftur",
+        "start": "2017-12-07 17:45:00"
+    },
+    {
+        "id": "8145",
+        "title": "Jórunn Kristinsdóttir veitir leiðsögn um sýninguna Blómalíf",
+        "start": "2017-12-10 08:00:00"
+    },
+    {
+        "id": "8166",
+        "title": "Snorri Þórðarson sýnir í Hannesarholti",
+        "start": "2017-12-15 16:00:00"
+    },
+    {
+        "id": "8170",
+        "title": "Phantasmagoria",
+        "start": "2018-01-06 17:00:00"
+    },
+    {
+        "id": "8173",
+        "title": "Töfratónar: jólatónleikar í Hannesarholti",
+        "start": "2017-12-20 20:00:00"
+    },
+    {
+        "id": "8188",
+        "title": "Music in familiar spaces - Elfa Rún og Vladimir Waltam",
+        "start": "2017-12-21 19:30:00"
+    },
+    {
+        "id": "8191",
+        "title": "Spúggujól 2017 - höfundar syngja og spila",
+        "start": "2017-12-21 17:00:00"
+    },
+    {
+        "id": "8193",
+        "title": "Þorláksmessa opið til kl.22.00",
+        "start": "2017-12-23 22:00:00"
+    },
+    {
+        "id": "8197",
+        "title": "Farfuglatónleikar: kl. 12:00 - Ingi Bjarni Skúlason",
+        "start": "2017-12-30 12:00:00"
+    },
+    {
+        "id": "8200",
+        "title": "Farfuglatónleikar: Kl. 14:00 - Gulli Björnsson og Jiji Kim",
+        "start": "2017-12-30 14:00:00"
+    },
+    {
+        "id": "8202",
+        "title": "Farfuglatónleikar Hannesarholts: kl. 16.00 - Steiney Sigurðardóttir",
+        "start": "2017-12-30 16:00:00"
+    },
+    {
+        "id": "8204",
+        "title": "Farfuglatónleikar Hannesarholts: kl. 18.00 - Jóna G. Kolbrúnardóttir",
+        "start": "2017-12-30 18:00:00"
+    },
+    {
+        "id": "8206",
+        "title": "Farfuglatónleikar Hannesarholts: kl. 20.00 - Geirþrúður Anna Guðmundsdóttir",
+        "start": "2017-12-30 20:00:00"
+    },
+    {
+        "id": "8212",
+        "title": "Gleðilega hátíð - Happy hollidays!",
+        "start": "2017-12-24 03:45:00"
+    },
+    {
+        "id": "8221",
+        "title": "Víkingur leikur fyrir Hannesarholt",
+        "start": "2018-01-10 20:00:00"
+    },
+    {
+        "id": "8235",
+        "title": "Bókakaffi - Kristín Helga Gunnarsdóttir",
+        "start": "2018-01-14 16:00:00"
+    },
+    {
+        "id": "8237",
+        "title": "Snorri Þórðarson - leiðsögn um sýningu",
+        "start": "2018-01-12 16:30:00"
+    },
+    {
+        "id": "8241",
+        "title": "Björk Níelsdóttir og Kaja Draskler frumflytja ný verk í Hannesarholti",
+        "start": "2018-01-25 20:00:00"
+    },
+    {
+        "id": "8251",
+        "title": "Kvöldstund með Bryndísi Schram",
+        "start": "2018-02-01 20:00:00"
+    },
+    {
+        "id": "8252",
+        "title": "Síðdegisstund með Hafliða Hallgrímssyni, Nicola Lolli og Andra Hafliðasyni",
+        "start": "2018-04-06 17:00:00"
+    },
+    {
+        "id": "8255",
+        "title": "Ástarsögur í Hannesarholti",
+        "start": "2018-02-15 20:00:00"
+    },
+    {
+        "id": "8265",
+        "title": "Kvöldstund með Ástu Kristrúnu Ragnarsdóttur og Valgeiri Guðjónssyni",
+        "start": "2018-03-01 20:00:00"
+    },
+    {
+        "id": "8266",
+        "title": "Kvöldstund með Gísla Pálssyni",
+        "start": "2018-03-15 20:00:00"
+    },
+    {
+        "id": "8273",
+        "title": "Syngjum saman með Jóhanni Vilhjálms og Gunnari Kr.Sigurjóns",
+        "start": "2018-02-04 14:00:00"
+    },
+    {
+        "id": "8275",
+        "title": "Kvöldstund með Vilborgu Davíðsdóttur",
+        "start": "2018-04-05 20:00:00"
+    },
+    {
+        "id": "8279",
+        "title": "Syngjum saman Björgvin Þ.Valdimarsson",
+        "start": "2018-04-22 14:00:00"
+    },
+    {
+        "id": "8284",
+        "title": "Pálsvaka - heimspekispjall",
+        "start": "2018-04-21 10:00:00"
+    },
+    {
+        "id": "8288",
+        "title": "Tónleikar 'Andrá og eilífð' frönsk veisla",
+        "start": "2018-03-18 17:00:00"
+    },
+    {
+        "id": "8299",
+        "title": "Leiklestur - Kvennaráð eftir Sellu Páls",
+        "start": "2018-02-22 20:00:00"
+    },
+    {
+        "id": "8306",
+        "title": "Tónleikar - Ástir kvenna, örlög og ástríður",
+        "start": "2018-03-16 20:00:00"
+    },
+    {
+        "id": "8312",
+        "title": "Í hennar sporum á konudaginn - Svanlaug Jóhannsdóttir",
+        "start": "2018-02-18 16:00:00"
+    },
+    {
+        "id": "8315",
+        "title": "Syngjum saman - Sigurkarl Stefánsson og Auður Sigurkarls",
+        "start": "2018-03-11 14:00:00"
+    },
+    {
+        "id": "8327",
+        "title": "Frestað vegna veðurs - Opið hús á 5 ára afmæli Hannesarholts",
+        "start": "2018-02-11 14:00:00"
+    },
+    {
+        "id": "8347",
+        "title": "Mozartmaraþon - Guðný Guðmundsdóttir",
+        "start": "2018-02-25 12:15:00"
+    },
+    {
+        "id": "8351",
+        "title": "Mozartmaraþon - Guðný Guðmundsdóttir og Gerrit Schuil",
+        "start": "2018-03-25 12:15:00"
+    },
+    {
+        "id": "8355",
+        "title": "Mozartmaraþon - Guðný Guðmundsdóttir og Nína Margrét Grímsdóttir",
+        "start": "2018-04-29 12:15:00"
+    },
+    {
+        "id": "8356",
+        "title": "Mozartmaraþon - Guðný Guðmundsdóttir og Delana Thomsen",
+        "start": "2018-06-24 12:15:00"
+    },
+    {
+        "id": "8357",
+        "title": "Mozartmaraþon - Guðný Guðmunsdóttir og Gerrit Schuil",
+        "start": "2018-07-29 12:15:00"
+    },
+    {
+        "id": "8358",
+        "title": "Mozartmaraþon - Guðný Guðmundsdóttir og Peter Máté",
+        "start": "2018-08-26 12:15:00"
+    },
+    {
+        "id": "8360",
+        "title": "Mozartmaraþon - Guðný Guðmundsdóttir og Richard Simm",
+        "start": "2018-10-28 12:15:00"
+    },
+    {
+        "id": "8361",
+        "title": "Mozartmaraþon - Guðný Guðmundsdóttir og Jane Sutarjo",
+        "start": "2018-09-30 12:15:00"
+    },
+    {
+        "id": "8362",
+        "title": "Mozartmaraþon - Guðný Guðmundsdóttir og Bjarni Frímann Bjarnason",
+        "start": "2018-11-25 12:15:00"
+    },
+    {
+        "id": "8363",
+        "title": "Syngjum saman skátalögin með Pálmari Ólasyni og Magneu Tómasdóttur",
+        "start": "2018-02-25 14:00:00"
+    },
+    {
+        "id": "8366",
+        "title": "Kvöldstund með Halldóru Björnsdóttur",
+        "start": "2018-03-08 20:00:00"
+    },
+    {
+        "id": "8368",
+        "title": "Leiklestur Kvennaráð eftir Sellu Páls",
+        "start": "2018-02-25 16:00:00"
+    },
+    {
+        "id": "8386",
+        "title": "Tónleikar á 100 ára afmæli sjálfstæðis Lettlands",
+        "start": "2018-03-17 15:00:00"
+    },
+    {
+        "id": "8420",
+        "title": "Svavar Knútur og söngperlurnar",
+        "start": "2018-03-10 14:00:00"
+    },
+    {
+        "id": "8427",
+        "title": "Kvennaráð eftir Sellu Páls - leiklestur endurtekinn",
+        "start": "2018-03-11 16:00:00"
+    },
+    {
+        "id": "8430",
+        "title": "Wagner og Liszt: vinátta, óvinátta, vinátta",
+        "start": "2018-03-04 14:00:00"
+    },
+    {
+        "id": "8440",
+        "title": "Kvennalistinn - 35 árum síðar",
+        "start": "2018-03-13 20:00:00"
+    },
+    {
+        "id": "8442",
+        "title": "Tónleikar - Dev Jazz",
+        "start": "2018-03-21 20:00:00"
+    },
+    {
+        "id": "8445",
+        "title": "Heimspekspjall - Eru peningar raunverulegir?",
+        "start": "2018-03-06 08:00:00"
+    },
+    {
+        "id": "8446",
+        "title": "Heimspekispjall - 'Eru peningar raunverulegir?'",
+        "start": "2018-03-24 13:00:00"
+    },
+    {
+        "id": "8458",
+        "title": "#Hún splæsir",
+        "start": "2018-03-15 17:00:00"
+    },
+    {
+        "id": "8467",
+        "title": "Tungu mál - Kvöldvaka með Steinsbörnum úr Tungu",
+        "start": "2018-04-12 20:00:00"
+    },
+    {
+        "id": "8469",
+        "title": "Syngjum saman með Snorra Helgasyni",
+        "start": "2018-03-25 14:00:00"
+    },
+    {
+        "id": "8473",
+        "title": "Hvað er í blýhólknum?  eftir Svövu Jakobsdóttur",
+        "start": "2018-03-22 20:00:00"
+    },
+    {
+        "id": "8476",
+        "title": "Virginia Woolf - færist niður í veitingastofur Hannesarholts",
+        "start": "2018-03-22 17:00:00"
+    },
+    {
+        "id": "8479",
+        "title": "Leiklestur - Hvað er í blýhólknum?",
+        "start": "2018-03-25 16:00:00"
+    },
+    {
+        "id": "8499",
+        "title": "Æskuvinir Svövu Jakobsdóttur - Leiklestur",
+        "start": "2018-04-04 20:00:00"
+    },
+    {
+        "id": "8501",
+        "title": "Lokaæfing Svövu Jakobsdóttur - Leiklestur",
+        "start": "2018-04-11 20:00:00"
+    },
+    {
+        "id": "8502",
+        "title": "Lokaæfing Svövu Jakobsdóttur - leiklestur",
+        "start": "2018-04-15 16:00:00"
+    },
+    {
+        "id": "8503",
+        "title": "Eldhús eftir máli Svövu og Völu - Leiklestur",
+        "start": "2018-04-18 20:00:00"
+    },
+    {
+        "id": "8504",
+        "title": "Eldhús eftir máli Svövu Jakobsdóttur - leiklestur",
+        "start": "2018-04-22 16:00:00"
+    },
+    {
+        "id": "8509",
+        "title": "Kvöldstund með Viðari Víkingssyni",
+        "start": "2018-05-03 20:00:00"
+    },
+    {
+        "id": "8512",
+        "title": "Æskuvinir Svövu Jakobsdóttur - Leiklestur",
+        "start": "2018-04-08 16:00:00"
+    },
+    {
+        "id": "8518",
+        "title": "Syngjum saman með Hauki Heiðari, Halldóri og Hauki Heiðari",
+        "start": "2018-04-08 14:00:00"
+    },
+    {
+        "id": "8519",
+        "title": "Kvöldstund með Kristínu Eiríks og Gunnari Þorra",
+        "start": "2018-04-26 20:00:00"
+    },
+    {
+        "id": "8520",
+        "title": "Kvöldstund með Önnu Sigríði Pálsdóttur og Önnu Sigríði Helgadóttur",
+        "start": "2018-05-17 20:00:00"
+    },
+    {
+        "id": "8522",
+        "title": "Syngjum saman á mæðradaginn með Tótu Björns og Þóru Marteins",
+        "start": "2018-05-13 14:00:00"
+    },
+    {
+        "id": "8528",
+        "title": "Sumardagurinn fyrsti",
+        "start": "2018-04-19 11:30:00"
+    },
+    {
+        "id": "8547",
+        "title": "Svava Jakobsdóttir, Hilmar Hafstein, Vilborg Davíðs, Hafliði Hallgrímsson, Haukur Heiðar og Svava Jakobs",
+        "start": "2018-04-03 08:00:00"
+    },
+    {
+        "id": "8594",
+        "title": "Tónleikar: Með víraflækjuhár og græna peru",
+        "start": "2018-04-28 17:00:00"
+    },
+    {
+        "id": "8606",
+        "title": "Lokað 1.maí / closed May 1st",
+        "start": "2018-05-01 08:00:00"
+    },
+    {
+        "id": "8623",
+        "title": "Hulda - Hver á sér fegra föðurland?",
+        "start": "2018-06-28 20:00:00"
+    },
+    {
+        "id": "8642",
+        "title": "Tónleikar - Krummi og hinir Alpafuglarnir",
+        "start": "2018-07-05 20:00:00"
+    },
+    {
+        "id": "8654",
+        "title": "Tónleikar Din&Tonics kl.19.30",
+        "start": "2018-05-31 20:00:00"
+    },
+    {
+        "id": "8663",
+        "title": "Leiðsögn um myndlistarsýningu Marilyn Herdísar Mellk 24.maí kl.17",
+        "start": "2018-05-22 08:00:00"
+    },
+    {
+        "id": "8679",
+        "title": "Ingibjörg H.Dalberg - Myndlistarsýning opnun 31.maí kl.16",
+        "start": "2018-05-28 08:00:00"
+    },
+    {
+        "id": "9609",
+        "title": "FÁIR, FÁTÆKIR, SMÁIR - VONARSTRÆTISLEIKHÚSIÐ",
+        "start": "2018-09-09 20:00:00"
+    },
+    {
+        "id": "10173",
+        "title": "SÖNGVAR ÚR LJÓÐAKVERINU 'Á VÍÐUM VÖLLUM'",
+        "start": "2020-10-30 20:00:00"
+    },
+    {
+        "id": "10176",
+        "title": "LESIÐ Á LOFTINU - YRSA ÞÖLL GYLFADÓTTIR",
+        "start": "2020-11-08 13:00:00"
+    },
+    {
+        "id": "10238",
+        "title": "SYNGJUM SAMAN Í HANNESARHOLTI MEÐ HERU BJÖRK OG BENNA SIG",
+        "start": "2020-11-08 14:00:00"
+    },
+    {
+        "id": "10253",
+        "title": "SYNGJUM SAMAN Í HANNESARHOLTI MEÐ INGIBJÖRGU OG SIGURÐI",
+        "start": "2020-11-22 14:00:00"
+    },
+    {
+        "id": "10257",
+        "title": "TRÍÓ VEST - TÓNLEIKAR Í STREYMI",
+        "start": "2020-11-29 12:15:00"
+    },
+    {
+        "id": "10266",
+        "title": "SYNGJUM SAMAN Í HANNESARHOLTI MEÐ ÞRÁNI ÁRNA",
+        "start": "2020-12-06 14:00:00"
+    },
+    {
+        "id": "10270",
+        "title": "SYNGJUM SAMAN Í HANNESARHOLTI MEÐ BREKI",
+        "start": "2020-12-13 14:00:00"
+    },
+    {
+        "id": "10274",
+        "title": "LJÚFIR JAZZTÓNAR Í HANNESARHOLTI",
+        "start": "2021-01-13 20:00:00"
+    },
+    {
+        "id": "10513",
+        "title": "SUNGIÐ SAMAN",
+        "start": "2017-09-10 14:00:00"
+    },
+    {
+        "id": "10516",
+        "title": "ALLSKONAR ÁST!",
+        "start": "2018-01-12 20:00:00"
+    },
+    {
+        "id": "10533",
+        "title": "Syngjum Saman",
+        "start": "2018-01-17 14:00:00"
+    },
+    {
+        "id": "10537",
+        "title": "GÍTARSVEIT DO RE MI TÓNSKÓLANS Á FARALDSFÆTI",
+        "start": "2018-06-05 20:00:00"
+    },
+    {
+        "id": "10540",
+        "title": "Leiðsögn u msýningu Ingibjargar Dalberg - Flækingar og fastagestir, takk fyrir komuna",
+        "start": "2018-06-07 18:00:00"
+    },
+    {
+        "id": "10544",
+        "title": "Tónleikar - Svavar Knútur",
+        "start": "2018-06-09 16:00:00"
+    },
+    {
+        "id": "10547",
+        "title": "Þjóðlagasveitin Þula á leið til Kína",
+        "start": "2018-06-14 19:30:00"
+    },
+    {
+        "id": "10554",
+        "title": "Kítón Klassík - Mögnuð kventónskáld",
+        "start": "2018-06-19 20:30:00"
+    },
+    {
+        "id": "10557",
+        "title": "Tourlou á Íslandi - Live music without borders",
+        "start": "2018-06-29 20:00:00"
+    },
+    {
+        "id": "10560",
+        "title": "Tónleikar - Svavar Knútur",
+        "start": "2018-07-12 20:00:00"
+    },
+    {
+        "id": "10563",
+        "title": "Íslandsferð - Iceland voyage: Sarah Smout, Sophie Ramsay, Ösp Eldjárn og Kristjana Arngrímsdóttir",
+        "start": "2018-07-18 20:00:00"
+    },
+    {
+        "id": "10566",
+        "title": "KÍTÓN TÓNLEIKAR - DULD",
+        "start": "2018-07-19 20:00:00"
+    },
+    {
+        "id": "10569",
+        "title": "MOZARTMARAÞON - TÓNLEIKARÖÐ",
+        "start": "2018-07-22 12:15:00"
+    },
+    {
+        "id": "10572",
+        "title": "BEETHOVEN, NORDAL OG RACHMANINOFF – HJÖRTUR PÁLL EGGERTSSON OG FILIP ŠTRAUCH",
+        "start": "2018-07-26 17:00:00"
+    },
+    {
+        "id": "10575",
+        "title": "KÍTÓN TÓNLEIKAR - UMBRA",
+        "start": "2018-07-26 20:00:00"
+    },
+    {
+        "id": "10578",
+        "title": "KRISTJANA OG SVAVAR - SUMARTÓNLEIKAFERÐ",
+        "start": "2018-07-28 15:00:00"
+    },
+    {
+        "id": "10582",
+        "title": "KÍTÓN TÓNLEIKAR - ÖSP ELDJÁRN",
+        "start": "2018-08-02 20:00:00"
+    },
+    {
+        "id": "10585",
+        "title": "KÍTÓN TÓNLEIKAR - STÍNA ÁGÚSTS OG ANNA GRÉTA",
+        "start": "2018-08-09 20:00:00"
+    },
+    {
+        "id": "10588",
+        "title": "ÁSTIN ER ALLSKONAR - TÓNLEIKAR",
+        "start": "2018-08-11 17:00:00"
+    },
+    {
+        "id": "10591",
+        "title": "KÍTÓN TÓNLEIKAR - DEA SONANS",
+        "start": "2018-08-16 20:00:00"
+    },
+    {
+        "id": "10594",
+        "title": "MENNINGARNÓTT Í HANNESARHOLTI",
+        "start": "2018-08-18 12:00:00"
+    },
+    {
+        "id": "10597",
+        "title": "LEIÐSÖGN UM SÝNINGU - MEET THE ARTIST",
+        "start": "2018-08-19 15:00:00"
+    },
+    {
+        "id": "10600",
+        "title": "KÍTÓN TÓNLEIKAR - GRÚSKA BABÚSKA",
+        "start": "2018-08-23 20:00:00"
+    },
+    {
+        "id": "10603",
+        "title": "Á TRÚNÓ MEÐ KRISTBORGU BÓEL",
+        "start": "2018-08-25 17:00:00"
+    },
+    {
+        "id": "10606",
+        "title": "JAZZHÁTÍÐ - AGNAR MÁR OG LAGE LUND",
+        "start": "2018-09-05 19:30:00"
+    },
+    {
+        "id": "10609",
+        "title": "JAZZHÁTÍÐ - SIGURÐUR FLOSASON OG LARS JANSSON",
+        "start": "2018-09-06 19:30:00"
+    },
+    {
+        "id": "10612",
+        "title": "SYNGJUM SAMAN Í HANNESARHOLTI MEÐ HÖRPU ÞORVALDSDÓTTUR",
+        "start": "2018-09-09 14:00:00"
+    },
+    {
+        "id": "10615",
+        "title": "MITT BLÁA HJARTA - KARL OLGEIRSSON",
+        "start": "2018-09-14 21:00:00"
+    },
+    {
+        "id": "10618",
+        "title": "KVÖLDSTUND MEÐ SIBYL",
+        "start": "2018-09-20 20:00:00"
+    },
+    {
+        "id": "10621",
+        "title": "SYNGJUM SAMAN MEÐ JÓHANNI OG GUNNARI",
+        "start": "2018-09-23 14:00:00"
+    },
+    {
+        "id": "10623",
+        "title": "KVÖLDSTUND MEÐ ARNARI EGGERTI THORODDSEN",
+        "start": "2018-09-27 20:00:00"
+    },
+    {
+        "id": "10626",
+        "title": "AUÐUR ÍSLANDS - ,,TÍMINN OG JÖKLARNIR'",
+        "start": "2018-10-02 20:00:00"
+    },
+    {
+        "id": "10630",
+        "title": "STYRKTARTÓNLEIKAR - GUNNAR KVARAN OG HAUKUR GUÐLAUGSSON",
+        "start": "2018-10-03 20:00:00"
+    },
+    {
+        "id": "10633",
+        "title": "KALOS Á ÍSLANDI",
+        "start": "2018-10-05 20:00:00"
+    },
+    {
+        "id": "10635",
+        "title": "HEIMSPEKISPJALL - 'LÍKAMLEG GAGNRÝNIN HUGSUN'",
+        "start": "2018-10-10 20:00:00"
+    },
+    {
+        "id": "10642",
+        "title": "TÓNLEIKAR - ALLSKONAR ÁST",
+        "start": "2018-10-11 20:00:00"
+    },
+    {
+        "id": "10646",
+        "title": "SVARTÁLFADANS",
+        "start": "2018-10-20 16:00:00"
+    },
+    {
+        "id": "10649",
+        "title": "LITIÐ UM ÖXL",
+        "start": "2018-10-21 12:15:00"
+    },
+    {
+        "id": "10653",
+        "title": "SYNGJUM SAMAN MEÐ INGÓLFI STEINSSYNI",
+        "start": "2018-10-21 14:00:00"
+    },
+    {
+        "id": "10656",
+        "title": "AUÐUR ÍSLANDS - TÍMINN OG HAFIÐ",
+        "start": "2018-10-25 20:00:00"
+    },
+    {
+        "id": "10659",
+        "title": "FINNSK BARNATÓNLIST Í REYKJAVÍK",
+        "start": "2018-10-27 13:00:00"
+    },
+    {
+        "id": "10662",
+        "title": "ARI ÁRELÍUS & ISLANDERS",
+        "start": "2018-10-27 20:00:00"
+    },
+    {
+        "id": "10667",
+        "title": "KONUR SKELFA EFTIR HLÍN AGNARSDÓTTUR",
+        "start": "2018-10-24 20:00:00"
+    },
+    {
+        "id": "10670",
+        "title": "MAHLER OG MUSSORGSKY",
+        "start": "2018-10-31 20:00:00"
+    },
+    {
+        "id": "10673",
+        "title": "KVÖLDSTUND MEÐ BRYNDÍSI SCHRAM",
+        "start": "2018-11-01 20:00:00"
+    },
+    {
+        "id": "10676",
+        "title": "MUSIC IS SILLY! ... BUT I LIKE TO SING",
+        "start": "2018-11-03 13:00:00"
+    },
+    {
+        "id": "10679",
+        "title": "ÞEGAR ORÐA ER VANT",
+        "start": "2018-11-03 16:00:00"
+    },
+    {
+        "id": "10682",
+        "title": "SYNGJUM SAMAN MEÐ GÓÐUM GRÖNNUM",
+        "start": "2018-11-04 14:00:00"
+    },
+    {
+        "id": "10686",
+        "title": "SIGVALDI KALDALÓNS Í HANNESARHOLTI",
+        "start": "2018-10-04 20:00:00"
+    },
+    {
+        "id": "10689",
+        "title": "HEIMSPEKISPJALL - ÁBYRGÐ OG TRAUST, REFSING OG LÆRDÓMAR",
+        "start": "2018-11-07 20:00:00"
+    },
+    {
+        "id": "10692",
+        "title": "AUÐUR ÍSLANDS - TÍMINN OG LOFTSLAGIÐ",
+        "start": "2018-11-08 20:00:00"
+    },
+    {
+        "id": "10695",
+        "title": "VESTNORRÆNN FUNDUR INGA BJARNA OG BÁRÐAR",
+        "start": "2018-11-10 17:00:00"
+    },
+    {
+        "id": "10698",
+        "title": "FYRIR SUNNAN FRÍKIRKJUNA",
+        "start": "2018-11-17 13:00:00"
+    },
+    {
+        "id": "10701",
+        "title": "PÍANÓTÓNLIST EFTIR SNORRA SIGFÚS BIRGISSON",
+        "start": "2018-11-17 16:00:00"
+    },
+    {
+        "id": "10704",
+        "title": "SYNGJUM SAMAN MEÐ SVAVARI KNÚTI",
+        "start": "2018-11-18 14:00:00"
+    },
+    {
+        "id": "10706",
+        "title": "DRAUMALANDIÐ",
+        "start": "2018-11-18 16:00:00"
+    },
+    {
+        "id": "10710",
+        "title": "TÓNLEIKAR TIL HEIÐURS JAKOBÍNU SIGURÐARDÓTTUR VIÐ SÖNGLÖG INGIBJARGAR AZIMU",
+        "start": "2018-11-27 20:00:00"
+    },
+    {
+        "id": "10713",
+        "title": "SYNGJUM SAMAN MEÐ ÞRÁNI ÁRNA BALDVINSSYNI",
+        "start": "2018-12-02 14:00:00"
+    },
+    {
+        "id": "10717",
+        "title": "SÖNGVAR JÓRUNNAR VIÐAR",
+        "start": "2018-12-08 17:00:00"
+    },
+    {
+        "id": "10720",
+        "title": "PÍANÓTÓNLIST EFTIR SNORRA SIGFÚS BIRGISSON",
+        "start": "2018-12-09 16:00:00"
+    },
+    {
+        "id": "10722",
+        "title": "'JÓL Í KÖLDU LANDI' CANTABILE OG MAGGA PÁLMA",
+        "start": "2018-12-11 20:00:00"
+    },
+    {
+        "id": "10725",
+        "title": "HAROLD BURR JÓLATÓNLEIKAR",
+        "start": "2018-12-13 20:00:00"
+    },
+    {
+        "id": "10728",
+        "title": "HÖFUNDAKVÖLD",
+        "start": "2018-12-14 20:00:00"
+    },
+    {
+        "id": "10731",
+        "title": "SYNGJUM SAMAN MEÐ MÚLTÍ-KÚLTÍ KÓRNUM",
+        "start": "2018-12-16 14:00:00"
+    },
+    {
+        "id": "10734",
+        "title": "ARISTÓTELESARKAFFI",
+        "start": "2018-11-01 12:00:00"
+    },
+    {
+        "id": "10737",
+        "title": "FARFUGLATÓNLEIKAR",
+        "start": "2018-12-30 14:00:00"
+    },
+    {
+        "id": "10740",
+        "title": "SÍÐDEGISSÖNGVAR MEÐ SVAVARI KNÚTI",
+        "start": "2019-01-12 17:00:00"
+    },
+    {
+        "id": "10742",
+        "title": "PÍANÓTÓNLIST EFTIR SNORRA SIGFÚS BIRGISSON",
+        "start": "2019-01-19 16:00:00"
+    },
+    {
+        "id": "10744",
+        "title": "SYNGJUM SAMAN MEÐ VALGERÐI JÓNSDÓTTUR OG ÞÓRÐI SÆVARSSYNI",
+        "start": "2019-01-20 14:00:00"
+    },
+    {
+        "id": "10747",
+        "title": "SIGURÐUR MÁLARI OG KONURNAR Í KRING",
+        "start": "2019-01-27 15:00:00"
+    },
+    {
+        "id": "10750",
+        "title": "MYRKIR MÚSÍKDAGAR: ELÍSABET WAAGE OG LAUFEY SIGURÐARDÓTTIR",
+        "start": "2019-02-02 13:00:00"
+    },
+    {
+        "id": "10754",
+        "title": "ÞRÆLAR AFRÍSK - AMERÍSKIR VINNUSÖNGVAR",
+        "start": "2019-02-02 20:00:00"
+    },
+    {
+        "id": "10757",
+        "title": "KVÖLDSTUND MEÐ SIGURSTEINI MÁSSYNI",
+        "start": "2019-02-07 20:00:00"
+    },
+    {
+        "id": "10760",
+        "title": "SYNGJUM SAMAN MEÐ REYNI JÓNASSYNI",
+        "start": "2019-02-10 14:00:00"
+    },
+    {
+        "id": "10763",
+        "title": "FYRIR SUNNAN FRÍKIRKJUNA - AÐALSTEINN ÁSBERG OG SVAVAR KNÚTUR",
+        "start": "2019-02-10 16:00:00"
+    },
+    {
+        "id": "10766",
+        "title": "LEIKHÚSLISTAKONUR 50+ ODDUR BJÖRNSSON LEIKLESTUR",
+        "start": "2019-02-15 20:00:00"
+    },
+    {
+        "id": "10769",
+        "title": "KRISTJANA OG SVAVAR KNÚTUR",
+        "start": "2019-02-16 17:00:00"
+    },
+    {
+        "id": "10772",
+        "title": "HÁDEGISTÓNLEIKAR ALEXANDRA CHERNISHOVA OG TRIO GRANDE",
+        "start": "2019-02-17 12:15:00"
+    },
+    {
+        "id": "10775",
+        "title": "KVÖLDSTUND MEÐ VALDIMARI OG ÖNNU",
+        "start": "2019-02-21 20:00:00"
+    },
+    {
+        "id": "10778",
+        "title": "MINÄ RAKASTAN SINUA - NORRÆN ÁSTARLJÓÐ MEÐ ÁGÚSTI ÓLAFSSYNI OG EVU ÞYRI HILMARSDÓTTUR",
+        "start": "2019-02-24 12:15:00"
+    },
+    {
+        "id": "10781",
+        "title": "SYNGJUM SAMAN MEÐ SVAVARI KNÚTI",
+        "start": "2019-02-24 14:00:00"
+    },
+    {
+        "id": "10783",
+        "title": "STYRKTARTÓNLEIKAR MOZART MEDITATION GUÐNÝ GUÐMUNDSDÓTTIR OG GERRIT SCHUIL",
+        "start": "2019-03-03 16:00:00"
+    },
+    {
+        "id": "10787",
+        "title": "DANSLEIKUR EFTIR ODD BJÖRNSSON",
+        "start": "2019-03-07 20:00:00"
+    },
+    {
+        "id": "10789",
+        "title": "FRÁ MYRKRI TIL LJÓSS MEÐ ÖNNU JÓNSDÓTTUR OG SOPHIE SOONJANS",
+        "start": "2019-03-10 12:15:00"
+    },
+    {
+        "id": "10792",
+        "title": "SYNGJUM SAMAN MEÐ MARGRÉTI OG ÁRSÆLI",
+        "start": "2019-03-10 14:00:00"
+    },
+    {
+        "id": "10795",
+        "title": "BÓKMENNTAKVÖLD UM ÁLFRÚNU GUNNLAUGSDÓTTUR - SOFFÍA AUÐUR BIRGISDÓTTIR OG HERMANN STEFÁNSSON",
+        "start": "2019-03-14 20:00:00"
+    },
+    {
+        "id": "10798",
+        "title": "BÓKAGLEÐI MEÐ ÁRNASTOFNUN",
+        "start": "2019-03-15 17:00:00"
+    },
+    {
+        "id": "10801",
+        "title": "SÍGILD SÖNGLÖG MEÐ SVAVARI KNÚTI",
+        "start": "2019-03-16 16:00:00"
+    },
+    {
+        "id": "10803",
+        "title": "WAGNER OG THOMAS MANN",
+        "start": "2019-03-17 14:00:00"
+    },
+    {
+        "id": "10806",
+        "title": "UNDIR PARÍSARHIMNI - BERGLJÓT ARNALDS",
+        "start": "2019-03-21 20:00:00"
+    },
+    {
+        "id": "10809",
+        "title": "SYNGJUM SAMAN MEÐ SKOTFJELAGINU",
+        "start": "2019-03-24 14:00:00"
+    },
+    {
+        "id": "10812",
+        "title": "HÖNNUNARMARS: HOLMEN SVØMMEHALL. BYGGING ÁRSINS Í NOREGI 2017",
+        "start": "2019-03-30 14:00:00"
+    },
+    {
+        "id": "10815",
+        "title": "HÁDEGISTÓNLEIKAR - SIGNÝ SÆMUNDSDÓTTIR OG ÞÓRA FRÍÐA",
+        "start": "2019-03-31 12:00:00"
+    },
+    {
+        "id": "10818",
+        "title": "LEIKHÚSLISTAKONUR 50+ EFTIR KONSERTINN",
+        "start": "2019-03-31 20:00:00"
+    },
+    {
+        "id": "10821",
+        "title": "HALLDÓR LAXNESS OG RÚSSNESKAR PERLUR",
+        "start": "2019-03-31 20:00:00"
+    },
+    {
+        "id": "10824",
+        "title": "KVÖLDSTUND MEÐ GUÐRÚNU NORDAL",
+        "start": "2019-04-04 20:00:00"
+    },
+    {
+        "id": "10827",
+        "title": "BÓKAGLEÐI SÖGUFÉLAGSINS - STUND KLÁMSINS",
+        "start": "2019-04-05 17:00:00"
+    },
+    {
+        "id": "10830",
+        "title": "REYNIR HAUKSSON FLAMENCO GÍTAREINLEIKUR",
+        "start": "2019-04-05 20:30:00"
+    },
+    {
+        "id": "10833",
+        "title": "SYNGJUM SAMAN MEÐ HAUKI HEIÐARI OG SONUM",
+        "start": "2019-04-07 14:00:00"
+    },
+    {
+        "id": "10836",
+        "title": "ALDARAFMÆLI JÓHANNS S. HANNESSONAR",
+        "start": "2019-04-10 20:00:00"
+    },
+    {
+        "id": "10839",
+        "title": "TÓNAFLÓÐ MEÐ ARGENTÍNSKU ÍVAFI - FRÁ BACH TIL PIAZZOLA",
+        "start": "2019-04-11 20:00:00"
+    },
+    {
+        "id": "10843",
+        "title": "TRÖLLASTELPAN SKJÓÐA Á RISLOFTINU Á BARNAMENNINGARHÁTÍÐ",
+        "start": "2019-04-14 11:00:00"
+    },
+    {
+        "id": "10847",
+        "title": "ÞRETTÁNDA KROSSFERÐIN - ODDUR BJÖRNSSON - LEIKHÚSLISTAKONUR 50+",
+        "start": "2019-04-26 20:00:00"
+    },
+    {
+        "id": "10849",
+        "title": "ÖLD EINLYNDIS OG MARGLYNDIS. RÁÐSTEFNA UM FYRIRLESTRA SIGURÐAR NORDALS",
+        "start": "2019-04-27 10:00:00"
+    },
+    {
+        "id": "10852",
+        "title": "SÖNGFUGLAR FRÁ ÝMSUM LÖNDUM - HÁDEGISTÓNLEIKAR NATHALÍA OG HRÖNN",
+        "start": "2019-05-19 12:00:00"
+    },
+    {
+        "id": "10855",
+        "title": "SYNGJUM SAMAN MEÐ SIGGU ÁSU OG GAUTI",
+        "start": "2019-05-12 14:00:00"
+    },
+    {
+        "id": "10858",
+        "title": "FYRIR SUNNAN FRÍKIRKJUNA",
+        "start": "2019-05-05 16:00:00"
+    },
+    {
+        "id": "10860",
+        "title": "NORRÆNT VOR - HÁDEGISTÓNLEIKAR MEÐ HALLVEIGU RÚNARSDÓTTUR OG HRÖNN ÞRÁINSDÓTTUR",
+        "start": "2019-05-05 12:00:00"
+    },
+    {
+        "id": "10863",
+        "title": "EINU SINNI Á ÁGÚSTKVÖLDI",
+        "start": "2019-05-04 16:00:00"
+    },
+    {
+        "id": "10866",
+        "title": "AÐ VERA MAÐUR MEÐ MÖNNUM - UM MANNSHUGTAKIÐ Í ÍSLENSKRI TUNGU",
+        "start": "2019-05-02 20:00:00"
+    },
+    {
+        "id": "10869",
+        "title": "ÞRETTÁNDA KROSSFERÐIN - ODDUR BJÖRNSSON - LEIKÚSLISTAKONUR 50+",
+        "start": "2019-04-28 16:00:00"
+    },
+    {
+        "id": "10871",
+        "title": "SYNGJUM SAMAN MEÐ SVAVARI KNÚTI",
+        "start": "2019-04-28 14:00:00"
+    },
+    {
+        "id": "10873",
+        "title": "ÍSLENSKAR ÞJÓÐSÖGUR MEÐ MYNDUM EFTIR GUÐNA HARÐARSON",
+        "start": "2019-06-06 17:00:00"
+    },
+    {
+        "id": "10876",
+        "title": "TÓNLEIKAR - GISNAR TÍMARAÐIR",
+        "start": "2019-06-05 20:00:00"
+    },
+    {
+        "id": "10879",
+        "title": "HÁDEGISTÓNLEIKAR HEIÐDÍS HANNA SIGURÐARDÓTTIR OG LAUFEY SIGRÚN HARALDSDÓTTIR",
+        "start": "2019-06-02 12:00:00"
+    },
+    {
+        "id": "10882",
+        "title": "OLEC MÜN - DIMENSION TRAVELLER",
+        "start": "2019-06-01 20:00:00"
+    },
+    {
+        "id": "10885",
+        "title": "KVÖLDSTUND MEÐ MÁ GUNNARSSYNI",
+        "start": "2019-05-29 20:00:00"
+    },
+    {
+        "id": "10888",
+        "title": "SYNGJUM SAMAN MEÐ HÖRPU ÞORVALDS",
+        "start": "2019-05-26 14:00:00"
+    },
+    {
+        "id": "10890",
+        "title": "REG & ANDREAS Í HANNESARHOLTI",
+        "start": "2019-05-23 20:00:00"
+    },
+    {
+        "id": "10893",
+        "title": "HALLI GUÐMUNDS JAZZ QUARTET - THE MONK KEYS",
+        "start": "2019-08-17 20:00:00"
+    },
+    {
+        "id": "10896",
+        "title": "BRÁÐUM KEMUR BETRI TÍÐ - TÓNLEIKAR",
+        "start": "2019-08-15 20:00:00"
+    },
+    {
+        "id": "10899",
+        "title": "HARMONIKKUMEISTARAR Í HANNESARHOLTI - CORY & KEVIN",
+        "start": "2019-07-12 20:00:00"
+    },
+    {
+        "id": "10902",
+        "title": "CLARA - A ONE WOMAN SHOW BY ELENA MAZZON",
+        "start": "2019-07-04 18:30:00"
+    },
+    {
+        "id": "10907",
+        "title": "BRASILÍSK SERENADA",
+        "start": "2019-07-04 20:30:00"
+    },
+    {
+        "id": "10910",
+        "title": "HJÖRVAR 52 FJÖLL - ÖÐRUVÍSI ÚTGÁFUTÓNLEIKAR",
+        "start": "2019-06-20 20:30:00"
+    },
+    {
+        "id": "10913",
+        "title": "ERU FUGLAR LÍKA FÓLK ?",
+        "start": "2019-06-13 20:00:00"
+    },
+    {
+        "id": "10916",
+        "title": "VAR HÚN Á LEIÐINNI - DÆGURLAGATÓNLISTIN ?",
+        "start": "2019-06-12 20:00:00"
+    },
+    {
+        "id": "10919",
+        "title": "SYNGJUM SAMAN MEÐ VÍSUM&SKVÍSUM",
+        "start": "2019-09-22 14:00:00"
+    },
+    {
+        "id": "10922",
+        "title": "PAPPÍRSPÉSI Í HANNESARHOLTI MEÐ HERDÍSI EGILSDÓTTUR",
+        "start": "2019-09-21 14:00:00"
+    },
+    {
+        "id": "10925",
+        "title": "ÞRÍEYKIÐ - TÓNLEIKAR",
+        "start": "2019-09-19 20:00:00"
+    },
+    {
+        "id": "10928",
+        "title": "VIÐ ERUM ÖLL UPPALENDUR - SIGRÚN AÐALBJARNARDÓTTIR",
+        "start": "2019-09-14 14:00:00"
+    },
+    {
+        "id": "10931",
+        "title": "KVÖLDSTUND MEÐ KARLI SIGURBJÖRNSSYNI - GENGIÐ UM SLÓÐIR BERNSKUNNAR",
+        "start": "2019-09-12 20:00:00"
+    },
+    {
+        "id": "10934",
+        "title": "PETER MÁTÉ FLYTUR ÖLL PÍANÓEINLEIKSVERK JOHN SPEIGHT",
+        "start": "2019-09-11 20:00:00"
+    },
+    {
+        "id": "10937",
+        "title": "SYNGJUM SAMAN HÖFUM GAMAN MEÐ JAKOBI FRÍMANNI",
+        "start": "2019-09-08 08:00:00"
+    },
+    {
+        "id": "10940",
+        "title": "MENNINGARNÓTT Í HANNESARHOLTI",
+        "start": "2019-08-24 00:00:00"
+    },
+    {
+        "id": "10943",
+        "title": "HÁDEGISTÓNLEIKAR - FINN, FJÖR OG FRANÇAIX",
+        "start": "2019-10-13 12:00:00"
+    },
+    {
+        "id": "10946",
+        "title": "KVÖLDSTUND MEÐ LILJU MAGNÚSDÓTTUR",
+        "start": "2019-10-10 20:00:00"
+    },
+    {
+        "id": "10949",
+        "title": "SYNGJUM SAMAN MEÐ ÞÓRUNNI HARÐARDÓTTUR",
+        "start": "2019-10-06 14:00:00"
+    },
+    {
+        "id": "10952",
+        "title": "NÝJI TÓNLISTARSKÓLINN 40 ÁRA - AFMÆLISHÁTÍÐARTÓNLEIKAR",
+        "start": "2019-10-06 12:00:00"
+    },
+    {
+        "id": "10955",
+        "title": "MEÐ FJÖLL Á HERÐUM SÉR - LJÓÐALEIKUR - STEFÁN HÖRÐUR GRÍMSSON",
+        "start": "2019-10-03 20:00:00"
+    },
+    {
+        "id": "10958",
+        "title": "RADDIR Í LOFTINU",
+        "start": "2019-09-29 12:00:00"
+    },
+    {
+        "id": "10961",
+        "title": "ÁRNI VIL ÚTGÁFUTÓNLEIKAR",
+        "start": "2019-09-28 20:00:00"
+    },
+    {
+        "id": "10964",
+        "title": "KAP MEÐ ÞÓRU HLÍN OG ÁRNA HEIÐARI PÍANÓLEIKARA",
+        "start": "2019-09-28 12:00:00"
+    },
+    {
+        "id": "10967",
+        "title": "KRISTÍN HELGA LES Á RISLOFTINU",
+        "start": "2019-10-27 14:00:00"
+    },
+    {
+        "id": "10970",
+        "title": "GRÍMUR - TÓNLEIKAR",
+        "start": "2019-10-24 20:00:00"
+    },
+    {
+        "id": "10973",
+        "title": "KVÆÐAKONAN GÓÐA Í HANNESARHOLTI",
+        "start": "2019-10-20 16:00:00"
+    },
+    {
+        "id": "10976",
+        "title": "SYNGJUM SAMAN MEÐ SVAVARI KNÚTI",
+        "start": "2019-10-20 14:00:00"
+    },
+    {
+        "id": "10979",
+        "title": "RABB UM KLASSÍSKA TÓNLIST - LISTIN AÐ STJÓRNA",
+        "start": "2019-10-19 15:30:00"
+    },
+    {
+        "id": "10982",
+        "title": "ÞRÍEYKIÐ - TÓNLEIKAR",
+        "start": "2019-10-17 20:00:00"
+    },
+    {
+        "id": "10985",
+        "title": "SIGRÚN ELDJÁRN LES Á RISLOFTINU",
+        "start": "2019-10-13 14:00:00"
+    },
+    {
+        "id": "10988",
+        "title": "SYNGJUM SAMAN MEÐ ÓMARI RAGNARSSYNI",
+        "start": "2019-11-24 14:00:00"
+    },
+    {
+        "id": "10991",
+        "title": "KAP MEÐ ÞÓRU HLÍN OG ÁRNA HEIÐARI PÍANÓLEIKARA",
+        "start": "2019-11-23 12:00:00"
+    },
+    {
+        "id": "10994",
+        "title": "KVÖLDSTUND MEÐ MOUSTAKI",
+        "start": "2019-10-21 20:00:00"
+    },
+    {
+        "id": "10997",
+        "title": "FRÖNSK KAFFIHÚSASTEMNING Í HANNESARHOLTI",
+        "start": "2019-11-16 16:00:00"
+    },
+    {
+        "id": "11000",
+        "title": "KVÖLDSTUND MEÐ JÓHÖNNU FJÓLU OG ÞORSTEINI EGGERTS",
+        "start": "2019-11-14 20:00:00"
+    },
+    {
+        "id": "11003",
+        "title": "SYNGJUM SAMAN MEÐ HERBERTI GUÐMUNDSSYNI",
+        "start": "2019-11-10 14:00:00"
+    },
+    {
+        "id": "11006",
+        "title": "HÁDEGISTÓNLEIKAR - ÓMUR NÁTTÚRUNNAR - ANNA MÁLFRÍÐUR",
+        "start": "2019-11-03 12:00:00"
+    },
+    {
+        "id": "11009",
+        "title": "HÁDEGISTÓNLEIKAR - ODDUR, BJARNI, WOLF OG MÖRIKE",
+        "start": "2020-01-26 12:00:00"
+    },
+    {
+        "id": "11012",
+        "title": "SYNGJUM SAMAN MEÐ HÖRPU ÞORVALDS",
+        "start": "2020-01-19 14:00:00"
+    },
+    {
+        "id": "11015",
+        "title": "TILFINNINGARÍKUR PÍANÓLEIKUR FRÁ SERBÍU - DRAGANA TEPARIĆ",
+        "start": "2020-01-08 08:00:00"
+    },
+    {
+        "id": "11020",
+        "title": "YANN BERTOLIN - VINJETTU PÍANÓTÓNLEIKAR",
+        "start": "2019-12-15 12:00:00"
+    },
+    {
+        "id": "11023",
+        "title": "AMERÍSK JÓL / AN AMERICAN CHRISTMAS",
+        "start": "2019-12-12 20:00:00"
+    },
+    {
+        "id": "11026",
+        "title": "SYNGJUM SAMAN MEÐ ÞRÁNI ÁRNA",
+        "start": "2019-12-08 14:00:00"
+    },
+    {
+        "id": "11029",
+        "title": "FEVER DREAM MEÐ SÍMONI VESTARR",
+        "start": "2019-12-05 20:00:00"
+    },
+    {
+        "id": "11032",
+        "title": "DIMMUMÓT",
+        "start": "2019-12-05 17:00:00"
+    },
+    {
+        "id": "11035",
+        "title": "PIRACEMA DUO - SÍTIO NASCENTE",
+        "start": "2020-02-13 20:00:00"
+    },
+    {
+        "id": "11038",
+        "title": "HÁDEGISTÓNLEIKAR - FREYSTEINN OG INGI BJARNI",
+        "start": "2020-02-09 12:00:00"
+    },
+    {
+        "id": "11041",
+        "title": "7 ÁRA AFMÆLI HANNESARHOLTS",
+        "start": "2020-02-08 16:00:00"
+    },
+    {
+        "id": "11044",
+        "title": "TÓNLIST Á ÞJÓÐARHLJÓÐFÆRI",
+        "start": "2020-02-02 19:00:00"
+    },
+    {
+        "id": "11047",
+        "title": "SYNGJUM SAMAN MEÐ VÍSUM&SKVÍSUM",
+        "start": "2020-02-02 14:00:00"
+    },
+    {
+        "id": "11049",
+        "title": "SERBNESK ÞJÓÐARTÓNLIST",
+        "start": "2020-02-01 19:00:00"
+    },
+    {
+        "id": "11051",
+        "title": "MYRKIR MÚSÍKDAGAR - DÚÓ FREYJA",
+        "start": "2020-01-30 17:00:00"
+    },
+    {
+        "id": "11061",
+        "title": "BACH 335 ÁRA - CHIACONNE GUÐNÝ GUÐMUNDSDÓTTIR",
+        "start": "2020-03-21 14:00:00"
+    },
+    {
+        "id": "11064",
+        "title": "SYNGJUM SAMAN MEÐ ÓMARI RAGNARSSYNI",
+        "start": "2020-03-15 14:00:00"
+    },
+    {
+        "id": "11066",
+        "title": "TÓNLEIKASÖGUSTUND MEÐ HERDÍSI HALLVARÐS OG GÍSLA HELGA",
+        "start": "2020-03-12 20:00:00"
+    },
+    {
+        "id": "11069",
+        "title": "STÍLÆFINGAR EFTIR RAYMOND QUENEAU",
+        "start": "2020-03-01 16:00:00"
+    },
+    {
+        "id": "11072",
+        "title": "SYNGJUM SAMAN MEÐ INGVARI VALGEIRSSYNI",
+        "start": "2020-03-01 14:00:00"
+    },
+    {
+        "id": "11075",
+        "title": "TÓNLEIKAR GUNNAR KVARAN OG HELGA BRYNDÍS MAGNÚSDÓTTIR - TIL HEIÐURS JOHN SPEIGHT",
+        "start": "2020-02-23 16:00:00"
+    },
+    {
+        "id": "11078",
+        "title": "ÓLÖF SIGURSVEINS OG EINAR BJARTUR Í BEINNI",
+        "start": "2020-04-05 12:00:00"
+    },
+    {
+        "id": "11081",
+        "title": "GUÐRÚN ÁRNÝ Í BEINNI FRÁ HANNESARHOLTI",
+        "start": "2020-04-01 20:00:00"
+    },
+    {
+        "id": "11084",
+        "title": "SNÆRIÐ Í BEINNI FRÁ HANNESARHOLTI",
+        "start": "2020-03-31 20:00:00"
+    },
+    {
+        "id": "11087",
+        "title": "SYNGJUM SAMAN Í BEINNI MEÐ HÖRPU ÞORVALDS",
+        "start": "2020-03-29 14:00:00"
+    },
+    {
+        "id": "11089",
+        "title": "SYNGJUM SAMAN MEÐ SVAVARI KNÚTI",
+        "start": "2020-03-22 14:00:00"
+    },
+    {
+        "id": "11091",
+        "title": "ARÍUR ÚR ÓPERUNNI THE RAVEN'S KISS Í BEINNI FRÁ HANNESARHOLTI",
+        "start": "2020-05-03 12:00:00"
+    },
+    {
+        "id": "11094",
+        "title": "SYNGJUM SAMAN Í BEINNI MEÐ ELÍNU HALLDÓRSDÓTTUR",
+        "start": "2020-04-26 14:00:00"
+    },
+    {
+        "id": "11097",
+        "title": "GUNNAR KVARAN Í BEINNI FRÁ HANNESARHOLTI",
+        "start": "2020-04-25 15:00:00"
+    },
+    {
+        "id": "11100",
+        "title": "ODINA Í BEINNI / ODINA LIVE FROM HANNESARHOLT",
+        "start": "2020-04-23 20:00:00"
+    },
+    {
+        "id": "11103",
+        "title": "SYNGJUM SAMAN Í BEINNI MEÐ RAGNHEIÐI GRÖNDAL",
+        "start": "2020-04-19 14:00:00"
+    },
+    {
+        "id": "11106",
+        "title": "PRELÚDÍA Á PÁSKUM - ÓLÖF SIGURSVEINS LEIKUR BACH Í BEINNI",
+        "start": "2020-04-13 12:00:00"
+    },
+    {
+        "id": "11109",
+        "title": "SYNGJUM SAMAN Í BEINNI MEÐ ELLEN OG EYÞÓRI",
+        "start": "2020-04-05 14:00:00"
+    },
+    {
+        "id": "11112",
+        "title": "SYNGJUM SAMAN Á SJÓMANNADAGINN MEÐ FRÆNDUNUM JÓHANNI OG GUNNARI",
+        "start": "2020-06-07 14:00:00"
+    },
+    {
+        "id": "11115",
+        "title": "SPÚTNIKK STRENGJAKVARTETT",
+        "start": "2020-06-07 12:00:00"
+    },
+    {
+        "id": "11118",
+        "title": "GUÐMUNDUR ANDRI - ÚTGÁFUTÓNLEIKAR",
+        "start": "2020-06-06 16:00:00"
+    },
+    {
+        "id": "11121",
+        "title": "SYNGJUM SAMAN Í HANNESARHOLTI MEÐ SIGGU EYRÚNU OG KALLA OLGEIRS",
+        "start": "2020-05-24 14:00:00"
+    },
+    {
+        "id": "11124",
+        "title": "SYNGJUM SAMAN Í HANNESARHOLTI MEÐ ERLEN ISABELLU",
+        "start": "2020-05-17 14:00:00"
+    },
+    {
+        "id": "11127",
+        "title": "SYNGJUM SAMAN Í HANNESARHOLTI MEÐ SVENNA ÞÓR",
+        "start": "2020-05-10 14:00:00"
+    },
+    {
+        "id": "11130",
+        "title": "HÁDEGISTÓNLEIKAR - VORDAGUR MEÐ SCHUMANN & BRAHMS",
+        "start": "2020-05-10 12:00:00"
+    },
+    {
+        "id": "11133",
+        "title": "SYNGJUM SAMAN MEÐ BRAGA ÁRNASYNI",
+        "start": "2020-05-03 14:00:00"
+    },
+    {
+        "id": "11136",
+        "title": "HÁDEGISTÓNLEIKAR - REYKJAVIK MOZART ENSEMBLE",
+        "start": "2020-09-06 12:00:00"
+    },
+    {
+        "id": "11139",
+        "title": "SYNGJUM SAMAN Í HANNESARHOLTI MEÐ HÖRPU ÞORVALDS",
+        "start": "2020-08-30 14:00:00"
+    },
+    {
+        "id": "11142",
+        "title": "REYNIR DEL NORTE - FLAMENCO HRINGINN Í KRINGUM LANDIÐ",
+        "start": "2020-07-04 20:00:00"
+    },
+    {
+        "id": "11145",
+        "title": "HLJÓMSVEITIN BREK Í HANNESARHOLTI",
+        "start": "2020-07-24 20:30:00"
+    },
+    {
+        "id": "11148",
+        "title": "RADDIR VORSINS VAKNA",
+        "start": "2020-07-21 12:00:00"
+    },
+    {
+        "id": "11151",
+        "title": "GUÐMUNDUR ANDRI OG FÉLAGAR - ÓTRYGG ER ÖGURSTUNDIN",
+        "start": "2020-07-20 16:00:00"
+    },
+    {
+        "id": "11153",
+        "title": "HÁTÍÐARTÓNAR",
+        "start": "2020-07-17 16:00:00"
+    },
+    {
+        "id": "11156",
+        "title": "ROMAIN COLLIN OG GESTIR - GDRN",
+        "start": "2020-10-03 20:00:00"
+    },
+    {
+        "id": "11160",
+        "title": "SYNGJUM SAMAN Í HANNESARHOLTI MEÐ HÖRPU ÞORVALDS OG RAGNHEIÐI",
+        "start": "2020-09-27 14:00:00"
+    },
+    {
+        "id": "11162",
+        "title": "LESIÐ Á LOFTINU - ANNA SIGRÍÐUR HELGADÓTTIR",
+        "start": "2020-09-27 13:00:00"
+    },
+    {
+        "id": "11165",
+        "title": "ROMAIN COLLIN OG GESTIR - ARI BRAGI KÁRASON",
+        "start": "2020-09-26 20:00:00"
+    },
+    {
+        "id": "11168",
+        "title": "ROMAIN COLLIN - EINLEIKSTÓNLEIKAR",
+        "start": "2020-09-22 20:00:00"
+    },
+    {
+        "id": "11171",
+        "title": "IN DUO WITH MAGNÚS TRYGVASON ELIASSEN",
+        "start": "2020-09-17 20:00:00"
+    },
+    {
+        "id": "11174",
+        "title": "SYNGJUM SAMAN Í HANNESARHOLTI MEÐ HÓLMARI OG HÖRPU",
+        "start": "2020-09-13 14:00:00"
+    },
+    {
+        "id": "11177",
+        "title": "REYKJAVÍK MOZART ENSEMBLE - AUKATÓNLEIKAR Á HÁDEGI",
+        "start": "2020-09-13 12:00:00"
+    },
+    {
+        "id": "11179",
+        "title": "DÚÓ EDDA LEIKUR KODÁLY OG SCHULHOFF",
+        "start": "2020-10-19 16:00:00"
+    },
+    {
+        "id": "11182",
+        "title": "SYNGJUM SAMAN Í HANNESARHOLTI MEÐ JÓHANNI OG GUNNARI",
+        "start": "2020-10-18 14:00:00"
+    },
+    {
+        "id": "11184",
+        "title": "SYNGJUM SAMAN Í HANNESARHOLTI MEÐ SESSÝ",
+        "start": "2020-10-11 14:00:00"
+    },
+    {
+        "id": "11187",
+        "title": "'GULMAÐRA' SELLÓTÓNLEIKAR Í STREYMI - ÓLÖF SIGURSVEINS OG EINAR BJARTUR",
+        "start": "2020-10-11 12:00:00"
+    },
+    {
+        "id": "11190",
+        "title": "LEIÐSÖGN UM SÝNINGU - INGIBJÖRG RÁN",
+        "start": "2020-10-04 14:00:00"
+    },
+    {
+        "id": "11193",
+        "title": "SYNGJUM SAMAN Í HANNESARHOLTI MEÐ MARÍNU & MIKAEL",
+        "start": "2020-10-25 14:00:00"
+    },
+    {
+        "id": "11196",
+        "title": "SYNGJUM SAMAN Í HANNESARHOLTI MEÐ MARGRÉTI OG ÁRSÆLI",
+        "start": "2020-11-15 14:00:00"
+    },
+    {
+        "id": "11199",
+        "title": "LESIÐ Á LOFTINU - YRSA ÞÖLL GYLFADÓTTIR - Í STREYMI",
+        "start": "2020-11-28 13:00:00"
+    },
+    {
+        "id": "11202",
+        "title": "SYNGJUM SAMAN Í HANNESARHOLTI MEÐ VALGERÐI OG ÞÓRÐI",
+        "start": "2019-11-29 14:00:00"
+    },
+    {
+        "id": "11205",
+        "title": "SYNGJUM SAMAN Í HANNESARHOLTI MEÐ HÖRPU ÞORVALDSDÓTTUR",
+        "start": "2021-01-17 14:00:00"
+    },
+    {
+        "id": "11207",
+        "title": "SELLÓPERLUR BACHS MEÐ GEIRÞRÚÐI ÖNNU",
+        "start": "2021-01-24 12:15:00"
+    },
+    {
+        "id": "11212",
+        "title": "SYNGJUM SAMAN Í HANNESARHOLTI MEÐ INGVARI VALGEIRSSYNI",
+        "start": "2021-01-31 14:00:00"
+    },
+    {
+        "id": "11216",
+        "title": "SYNGJUM SAMAN Í HANNESARHOLTI MEÐ TÓTU OG ÞÓRU",
+        "start": ""
+    },
+    {
+        "id": "11219",
+        "title": "LITIR OG LJÓS - RAGGA RÓBERTS",
+        "start": "2021-01-11 00:00:00"
+    },
+    {
+        "id": "11237",
+        "title": "´HÝSILL´ - MELLÍ",
+        "start": "2020-12-11 00:00:00"
+    },
+    {
+        "id": "11240",
+        "title": "UM LANDIÐ - INGIBJÖRG DALBERG",
+        "start": "2020-11-20 00:00:00"
+    },
+    {
+        "id": "11243",
+        "title": "ERLINGUR PÁLL INGVARSSON - GULA SÓLIN MAMMA",
+        "start": "2020-11-01 00:00:00"
+    },
+    {
+        "id": "11246",
+        "title": "LIST ÁN LANDAMÆRA - BJÖRN TRAUSTASON",
+        "start": "2020-10-21 00:00:00"
+    },
+    {
+        "id": "11249",
+        "title": "BIRTING - INGIBJÖRG RÁN GUÐMUNDSDÓTTIR",
+        "start": "2020-09-19 00:00:00"
+    },
+    {
+        "id": "11252",
+        "title": "BIRTINGARMYNDIR - STEFÁN BOULTER",
+        "start": "2020-08-29 00:00:00"
+    },
+    {
+        "id": "11255",
+        "title": "FARVEGUR - ÓLÖF SVAVA GUÐMUNDSDÓTTIR",
+        "start": "2020-08-08 00:00:00"
+    },
+    {
+        "id": "11258",
+        "title": "Í HRING - MYNDLISTARSÝNING HÖRPU MÁSDÓTTUR",
+        "start": "2020-05-29 00:00:00"
+    },
+    {
+        "id": "11261",
+        "title": "FEGURÐ OG FÖGNUÐUR / SERENITY AND CELEBRATION - VIGNIR JÓHANNSSON",
+        "start": "2020-03-14 00:00:00"
+    },
+    {
+        "id": "11264",
+        "title": "SAMSÝNING LINDA BJÖRK, RAKEL OG JOHANN WIMMER",
+        "start": "2020-02-27 00:00:00"
+    },
+    {
+        "id": "11267",
+        "title": "VEISLA - HANNA HLÍF BJARNADÓTTIR",
+        "start": "2020-02-01 00:00:00"
+    },
+    {
+        "id": "11270",
+        "title": "HIRSLA PANDÓRU - KRISTINN ÖRN GUÐMUNDSSON",
+        "start": "2020-01-08 00:00:00"
+    },
+    {
+        "id": "11274",
+        "title": "LEIÐ MÍN AÐ SILKINU/ MON CHEMIN VERS LA SOIE",
+        "start": "2019-11-30 00:00:00"
+    },
+    {
+        "id": "11277",
+        "title": "VERNDARVÆTTIR ÍSLANDS - SIGRÚN ÚLFARSDÓTTIR",
+        "start": "2019-11-16 00:00:00"
+    },
+    {
+        "id": "11280",
+        "title": "SURTSEY - NÝR HEIMUR",
+        "start": "2019-10-26 00:00:00"
+    },
+    {
+        "id": "11283",
+        "title": "SLAUFUR OG HÖFUÐFÖT / BOWS AND HATS",
+        "start": "2019-10-11 00:00:00"
+    },
+    {
+        "id": "11286",
+        "title": "HVÍSLIÐ Í DJÚPINU - HELGA SIGRÍÐUR VALDEMARSDÓTTIR",
+        "start": "2019-10-05 00:00:00"
+    },
+    {
+        "id": "11289",
+        "title": "LITSKÚRALEIÐINGAR VIÐ ÆGISSÍÐU - KRISTJÁN JESSEN",
+        "start": "2019-09-01 00:00:00"
+    },
+    {
+        "id": "11292",
+        "title": "ÚR UNDRAKISTU ALHEIMSINS - JÓN VILHJÁLMUR STEFÁNSSON",
+        "start": "2019-08-17 00:00:00"
+    },
+    {
+        "id": "11295",
+        "title": "VERÐUR OG FER SEM FER? / QUE SERA SERA?",
+        "start": "2019-05-10 00:00:00"
+    },
+    {
+        "id": "11298",
+        "title": "BOÐAR OG BRIM - GUÐRÚN B. INGIBJARTSDÓTTIR",
+        "start": "2019-04-09 00:00:00"
+    },
+    {
+        "id": "11301",
+        "title": "NIKULÁS SIGFÚSSON AFMÆLISSÝNING",
+        "start": "2019-03-30 00:00:00"
+    },
+    {
+        "id": "11304",
+        "title": "MÁLVERKASÝNING EDDU GUÐMUNDSDÓTTUR",
+        "start": "2019-03-02 00:00:00"
+    },
+    {
+        "id": "11307",
+        "title": "VATNSLITAMYNDIR MARGRÉTAR KOLKA HARALDSDÓTTUR",
+        "start": "2019-02-02 00:00:00"
+    },
+    {
+        "id": "11310",
+        "title": "MYNDIRNAR MÍNAR Í 25 ÁR - MYNDLISTARSÝNING SJØFN HAR",
+        "start": "2018-12-01 16:00:00"
+    },
+    {
+        "id": "11313",
+        "title": "SÖGUMÁLVERK - SAMFERÐAMENN - SOFFÍA SÆMUNDSDÓTTIR",
+        "start": "2018-11-04 00:00:00"
+    },
+    {
+        "id": "11316",
+        "title": "ÞRÁNDUR ÞÓRARINSSON BORGARMYNDIR",
+        "start": "2018-10-06 00:00:00"
+    },
+    {
+        "id": "11319",
+        "title": "'JÖKLASÝN'",
+        "start": "2018-09-08 00:00:00"
+    },
+    {
+        "id": "11322",
+        "title": "'HÚN' FRÁ AFRÍKU TIL ÍSLANDS",
+        "start": "2018-07-27 00:00:00"
+    },
+    {
+        "id": "11325",
+        "title": "KATRÍN JÓNSDÓTTIR",
+        "start": "2018-06-30 00:00:00"
+    },
+    {
+        "id": "11328",
+        "title": "MARILYN HERDÍS MELLK",
+        "start": "2018-05-03 00:00:00"
+    },
+    {
+        "id": "11331",
+        "title": "HILMAR HAFSTEIN SVAVARSSON",
+        "start": "2018-04-05 00:00:00"
+    },
+    {
+        "id": "11334",
+        "title": "GJÚGG Í BLÓM (PEEKABOO) EFTIR GEORG DOUGLAS",
+        "start": "2018-03-01 00:00:00"
+    },
+    {
+        "id": "11707",
+        "title": "KVÖLDSTUND MEÐ AÐALBJÖRGU - FYRIR HVAÐ VERÐUR ÞÍN MINNST?",
+        "start": "2021-03-04 20:00:00"
+    },
+    {
+        "id": "11711",
+        "title": "SYNGJUM SAMAN Í HANNESARHOLTI MEÐ MARÍNU & MIKAEL",
+        "start": "2021-03-14 14:00:00"
+    },
+    {
+        "id": "11715",
+        "title": "SYNGJUM SAMAN Í HANNESARHOLTI MEÐ INGIBJÖRGU FRÍÐU OG SIGURÐI INGA",
+        "start": "2021-03-28 14:00:00"
+    },
+    {
+        "id": "11722",
+        "title": "SYNGJUM SAMAN Í HANNESARHOLTI MEÐ VALGERÐI OG ÞÓRÐI",
+        "start": "2021-04-11 14:00:00"
+    },
+    {
+        "id": "11730",
+        "title": "SYNGJUM SAMAN Í HANNESARHOLTI MEÐ SIGTRYGGI BALDURSSYNI",
+        "start": "2021-05-09 14:00:00"
+    },
+    {
+        "id": "11735",
+        "title": "SYNGJUM SAMAN Í HANNESARHOLTI MEÐ MJÖLL HÓLM",
+        "start": "2021-05-16 14:00:00"
+    },
+    {
+        "id": "11739",
+        "title": "MILLI HÚSA - ARON LEVÍ BECK / ALBECK",
+        "start": "2021-02-20 00:00:00"
+    },
+    {
+        "id": "11795",
+        "title": "STÖPLAR - UNNAR ARI BALDVINSSON",
+        "start": "2021-03-13 00:00:00"
+    },
+    {
+        "id": "11996",
+        "title": "Daði Guðbjörnsson í Hannesarholti",
+        "start": "2021-04-17 15:00:00"
+    },
+    {
+        "id": "12043",
+        "title": "SYNGJUM SAMAN MEÐ UPPSIGLINGU",
+        "start": "2021-05-02 14:00:00"
+    },
+    {
+        "id": "12050",
+        "title": "Aðalfundur Hannesarholts",
+        "start": "2021-05-17 17:00:00"
+    },
+    {
+        "id": "12071",
+        "title": "Snorri Sigfús Birgisson og Laufey Sigurðardóttir",
+        "start": "2021-05-13 15:30:00"
+    },
+    {
+        "id": "12076",
+        "title": "TÓNAR OG LJÓÐ VALGERÐAR Í HANNESARHOLTI",
+        "start": "2021-06-03 20:00:00"
+    },
+    {
+        "id": "12099",
+        "title": "GRÍN FYRIR GRENSÁS",
+        "start": "2021-06-10 20:00:00"
+    },
+    {
+        "id": "12190",
+        "title": "DJ BJÖRK - TÓNLIST OG MATUR Í HANNESARHOLTI",
+        "start": "2021-05-29 18:00:00"
+    },
+    {
+        "id": "12195",
+        "title": "TÍMAFLAKK - SNORRI ÁSMUNDSSON OG KRISTJÁN FRÍMANN KRISTJÁNSSON",
+        "start": "2021-05-28 00:00:00"
+    },
+    {
+        "id": "12198",
+        "title": "LISTASÝNING - SNORRI ÁSMUNDSSON",
+        "start": "2021-05-28 00:00:00"
+    },
+    {
+        "id": "12201",
+        "title": "KAMMERHÓPURINN JÖKLA BLÆS SUMARVINDA",
+        "start": "2021-06-20 14:00:00"
+    },
+    {
+        "id": "12205",
+        "title": "MÖMMUSTRÁKUR GUÐNA KOLBEINSSONAR Í NÝRRI ÚTGÁFU",
+        "start": "2021-05-28 16:00:00"
+    },
+    {
+        "id": "12217",
+        "title": "Konur - Áhrifavaldar í lífi Hannesar Hafstein",
+        "start": "2021-05-29 15:00:00"
+    },
+    {
+        "id": "12220",
+        "title": "Konur - Áhrifavaldar í lífi Hannesar Hafstein",
+        "start": "2021-06-05 15:00:00"
+    },
+    {
+        "id": "12221",
+        "title": "Konur - Áhrifavaldar í lífi Hannesar Hafstein",
+        "start": "2021-06-12 15:00:00"
+    },
+    {
+        "id": "12222",
+        "title": "Konur - Áhrifavaldar í lífi Hannesar Hafstein",
+        "start": "2021-06-19 15:00:00"
+    },
+    {
+        "id": "12230",
+        "title": "TÓNLEIKAR INGÓLFUR STEINSSON - BERNSKUBREK",
+        "start": "2021-06-18 20:00:00"
+    },
+    {
+        "id": "12264",
+        "title": "Ljóð í máli og myndum",
+        "start": "2021-06-12 00:00:00"
+    },
+    {
+        "id": "12267",
+        "title": "DjBjörk í Hannesarholti á Afrískum nótum",
+        "start": "2021-06-12 18:00:00"
+    }
+]
