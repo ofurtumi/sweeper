@@ -3,6 +3,7 @@ events = {}
 tempTitle = ""
 tempId = ""
 tempStart = ""
+asdf = ""
 
 with open('export.xml', encoding="UTF-8") as f:
     lines = f.readlines()
@@ -17,6 +18,8 @@ with open('export.xml', encoding="UTF-8") as f:
         if (nextline):
             nextline = False
             tempStart = line.lstrip()[24:-20]
+            tempStart = f"{tempStart[5:7]}-{tempStart[8:10]}-{tempStart[0:4]}"
+            # print("asdf: " + asdf + " " + tempTitle)
             events[tempId] = [tempTitle, tempStart]
 
         if ("_EventStartDateUTC" in line): nextline = True
